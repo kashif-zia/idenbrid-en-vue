@@ -4,7 +4,7 @@
         <section class="section-policy">
             <div class="auto-container">
             <div class="hero_Heading">
-                <h2 class="hero">Privacy Policy</h2>
+                <h4 class="hero">Privacy Policy</h4>
                 <p class="digital-subcontents__text">This page displays our privacy policy.</p>
             </div>
             <section class="mycontents-wide privacy">
@@ -135,6 +135,18 @@ import PageHeader from '../views/PageHeader.vue';
     .privacy__about {
         display: block;
         margin: 0 0 0 auto;
-        width: 260px;
+        width: 400px;
+    }
+    @media (max-width: 767px) {
+    .section-policy {
+    padding: 30px 0px;
+}
+.privacy__label{
+    font-size: 23px;    
+}
+.privacy__about{
+margin: 0px;
+width: 100%;
+}
     }
 </style>

@@ -56,22 +56,27 @@
                   <div id="error_for_880722_2634pi_880722_2634" style="display:none"></div>
                 </div>
               </div>
+             
+            </div>
+            <div class="form-group row form-field website pd-text">
+             
+            
               <div class="col-md-6">
                 <div class="formInputInner Inquiry_type ">
                   <select v-model="form.inquiry_type" id="880722_2634pi_880722_2634" se class="select form-control"
                     onchange="">
-                    <option  selected="selected" disabled value="">Please choose from below</option>
-                    <option value="13990">Looking for an IT development outsourcer</option>
-                    <option value="13992">I want a quote for a project</option>
-                    <option value="13994">want to do business</option>
-                    <option value="13996">About recruitment</option>
-                    <option value="13996">Inquiries about coverage and company</option>
+                    <option  selected="selected" disabled value="">How did you learn about our company?</option>
+                    <option value="12990">Introduction</option>
+                    <option value="12992">SNS</option>
+                    <option value="12994">blog</option>
+                    <option value="12996">from a sales representative</option>
+                    <option value="12996">email sent</option>
+                    <option value="12996">web search</option>
+                    <option value="12996">others</option>
                   </select>
                   <div id="error_for_880722_2634pi_880722_2634" style="display:none"></div>
                 </div>
               </div>
-            </div>
-            <div class="form-group row form-field  last_name pd-text required">
               <div class="col-md-6">
                 <div class="formInputInner website ">
                   <input v-model="form.url" type="url" name="880722_2636pi_880722_2636" id="880722_2636pi_880722_2636"
@@ -80,7 +85,10 @@
                   <div id="error_for_880722_2636pi_880722_2636" style="display:none"> </div>
                 </div>
               </div>
-              <div class="col-md-6">
+            </div>
+            <!-- <div class="form-group row form-field  last_name pd-text required">
+           
+              <div class="col-md-12">
                 <div class="formInputInner  phone ">
                   <input v-model="form.phone_number" type="tel" name="880722_2638pi_880722_2638"
                     id="880722_2638pi_880722_2638"  class="text text form-control" size="30" maxlength="40"
@@ -88,7 +96,7 @@
                   <div id="error_for_880722_2638pi_880722_2638" style="display:none"></div>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="form-group row form-field phone pd-text required   ">
               <div class="col-md-12">
                 <div class="formInputInner  Contact_Us ">

@@ -233,7 +233,10 @@ li {
 figure {
   margin-bottom: 0;
 }
-
+.privacy__label{
+  font-size: 24px;
+  font-weight: 700;
+}
 .theme-btn {
   display: inline-block;
   -webkit-transition: all 0.3s ease;
@@ -2113,7 +2116,7 @@ img.lazy-image.loaded {
 
 .banner-carousel .content-box .sub-title {
   display: block;
-  font-size: 24px;
+  font-size: 32px;
   line-height: 1.5em;
   color: #ffffff;
   font-weight: 400;
@@ -6160,7 +6163,10 @@ font-size: 30px;
   -o-animation: ripple 3s infinite;
   animation: ripple 3s infinite;
 }
-
+.txt-rotate{
+  color: #fff;
+  text-transform: uppercase;
+}
 .why-us-section .left-col .vid-link .ripple:before {
   -webkit-animation-delay: 0.9s;
   -moz-animation-delay: 0.9s;
@@ -9796,6 +9802,13 @@ font-size: 30px;
 }
 
 @media (max-width: 480px) {
+  .main-header.fixed-header .header-upper .logo-box{
+    padding-top: 0px;
+  padding-bottom: 0px;
+  }
+  .main-header.fixed-header .nav-outer .mobile-nav-toggler {
+    margin-top: 5px;
+}
   .side-menu__top, .side-menu__content, .mobile-nav__container {
     padding-left: 50px;
     padding-right: 25px;
@@ -9855,6 +9868,7 @@ font-size: 30px;
     .banner-carousel .carousel__slide--active .content-box h1{
       font-size: 40px;
     }
+   
   }
 /* style switcher */
 
