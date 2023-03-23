@@ -9802,6 +9802,13 @@ font-size: 30px;
 }
 
 @media (max-width: 480px) {
+  .main-header.fixed-header .header-upper .logo-box{
+    padding-top: 0px;
+  padding-bottom: 0px;
+  }
+  .main-header.fixed-header .nav-outer .mobile-nav-toggler {
+    margin-top: 5px;
+}
   .side-menu__top, .side-menu__content, .mobile-nav__container {
     padding-left: 50px;
     padding-right: 25px;
@@ -9861,6 +9868,7 @@ font-size: 30px;
     .banner-carousel .carousel__slide--active .content-box h1{
       font-size: 40px;
     }
+   
   }
 /* style switcher */
 
