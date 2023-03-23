@@ -135,7 +135,7 @@ import PageHeader from '../views/PageHeader.vue';
     .privacy__about {
         display: block;
         margin: 0 0 0 auto;
-        width: 260px;
+        width: 400px;
     }
     @media (max-width: 767px) {
     .section-policy {
@@ -146,6 +146,7 @@ import PageHeader from '../views/PageHeader.vue';
 }
 .privacy__about{
 margin: 0px;
+width: 100%;
 }
     }
 </style>
