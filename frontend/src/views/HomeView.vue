@@ -548,6 +548,7 @@
   </div>
 </template>
 <script>
+import mixitup from 'mixitup';
   import axios from '../axios';
   import 'vue3-carousel/dist/carousel.css'
   import {

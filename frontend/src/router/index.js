@@ -96,7 +96,7 @@ const router = createRouter({
       component: () => import('../components/JobDetail.vue')
     },
     {
-      path: '/privacy',
+      path: '/privacy-policy',
       name: 'PrivacyPolicy',
       component: () => import('../components/PrivacyPolicy.vue')
     },

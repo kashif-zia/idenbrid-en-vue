@@ -103,7 +103,7 @@
                 <div class="formInputInner  privacy_policy ">
                   <p class="description mb-0">
                     <label for="agreecheck">
-                      <router-link to="/privacypolicy" target="_top">
+                      <router-link to="/privacy-policy" target="_top">
                         privacy policy</router-link>
                       Please read carefully and check if there is no problem
                     </label>
