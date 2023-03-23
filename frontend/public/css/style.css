@@ -2113,7 +2113,7 @@ img.lazy-image.loaded {
 
 .banner-carousel .content-box .sub-title {
   display: block;
-  font-size: 24px;
+  font-size: 32px;
   line-height: 1.5em;
   color: #ffffff;
   font-weight: 400;
@@ -6160,7 +6160,9 @@ font-size: 30px;
   -o-animation: ripple 3s infinite;
   animation: ripple 3s infinite;
 }
-
+.txt-rotate{
+  color: #fff;
+}
 .why-us-section .left-col .vid-link .ripple:before {
   -webkit-animation-delay: 0.9s;
   -moz-animation-delay: 0.9s;

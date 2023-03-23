@@ -216,6 +216,7 @@
     display: flex;
     justify-content: center;
     gap: 60px;
+
   }
 
   .btn-wide {
@@ -280,5 +281,16 @@
 
   .btn-wide:hover .btn-wide__imgs img:nth-child(2) {
     opacity: 1;
+  }
+  @media (max-width: 767px) {
+    .contact__btns {
+    flex-direction: column;
+    gap: 20px;
+
+
+  }
+  .btn-wide{
+    width: 100%;
+  }
   }
 </style>
