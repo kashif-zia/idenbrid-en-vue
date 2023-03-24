@@ -110,6 +110,16 @@ const router = createRouter({
       name: 'Mobile Application',
       component: () => import('../components/MobileApp.vue')
     },
+    {
+      path: '/uiuxdesign',
+      name: 'Ui/Ux Design',
+      component: () => import('../components/UiUxDesign.vue')
+    },
+    {
+      path: '/wbsite-consulting',
+      name: 'Website Consulting',
+      component: () => import('../components/WebsiteConsulting.vue')
+    },
   ]
 })
 
