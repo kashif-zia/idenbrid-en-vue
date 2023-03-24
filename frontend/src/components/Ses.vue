@@ -11,7 +11,7 @@
                 <ul class="system-sec__contents">
                     <li class="system-sec__list"><img src="/images/icons/ses-image-01.png" alt="Ses image"
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">man of style</h3>
+                        <h3 class="system-sec__list__title">Man of style</h3>
                         <p class="system-sec__list__text">
                             Style-kun will do its best to assist and support you in obtaining your projects!</p>
                     </li>
@@ -78,7 +78,7 @@
                     </li>
                     <li class="system-sec__list"><img src="/images/icons/ses-image-09.svg" alt="Ses image"
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">speedy response</h3>
+                        <h3 class="system-sec__list__title">Speedy response</h3>
                         <p class="system-sec__list__text">Even if you have an urgent, urgent project or a recruitment
                             that requires a large number of people, our service will be able to propose and respond to
                             your needs.
@@ -103,7 +103,7 @@
                         </li>
                         <li class="flow__list flow__list_border"><img src="/images/icons/Resume-bro.svg"
                                 alt="Resume image" class="flow__list__thumbnail">
-                            <h4 class="flow__list__title">document screening</h4>
+                            <h4 class="flow__list__title">Document Screening</h4>
                             <p class="flow__list__text">We will prepare a skill set sheet based on the information you
                                 have registered in order to proceed with your proposal and pass the document screening
                                 process.</p>
@@ -160,5 +160,5 @@
 </script>
 
 <style>
-   
+
 </style>
