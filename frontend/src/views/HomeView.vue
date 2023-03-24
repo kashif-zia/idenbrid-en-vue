@@ -273,7 +273,7 @@
                     </div>
                   </div>
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-two"/>
+                  <input type="radio" name="tabs" id="tab-two" />
                   <label for="tab-two" class="tab-btn theme-btn btn-style-one">
                     <i class="btn-curve"></i>
                     <span class="btn-title">Our Vision</span>
@@ -380,7 +380,7 @@
                     January 2020, and ever since, we have been striving to
                     achieve our objective of becoming the world's most essential
                     IT company operating from Pakistan <br>
-                     <router-link to="/ceomessage">Read more &rarr;</router-link>
+                    <router-link to="/ceomessage">Read more &rarr;</router-link>
                   </p>
                 </div>
               </div>
@@ -388,6 +388,48 @@
           </div>
         </div>
       </div>
+    </section>
+    <section>
+      <section class="otherservice auto-container">
+        <h3 class="content-title">SERVICE</h3>
+        <div class="service-row my-5 service-row-first">
+          <div class="service-col">
+            <h2 class="service_h2"><img src="/images/icons/SHD.png" alt="Service-image" class="image-icon">SDH: Studio Development Hub  
+            </h2>
+            <p class="service-p">
+              Studio Development Hub provides IT contract development services for Japanese and global companies. Studio Development Hub provides IT contract development services for Japanese and global companies, as well as general offshore development services for Pakistani engineers on a month-to-month basis.
+            </p>
+            <div class="link-box mt-5">
+              <router-link class="theme-btn btn-style-one" to="/contact">
+                <i class="btn-curve"></i>
+                <span class="btn-title">View More</span>
+              </router-link>
+            </div>
+          </div>
+          <div class="service-col">
+            <img alt="Service-image" src="/images/sdh.webp" class="service-img">
+          </div>
+        </div>
+        <div class="service-row my-5">
+          <div class="service-col">
+            <img class="service-img" alt="" src="/images/ses.webp">
+          </div>
+          <div class="service-col">
+            <h2 class="service_h2"><img src="/images/icons/SES.png" alt="Service-image"
+                class="image-icon">SES: Engineer Style
+            </h2>
+            <p class="service-p">
+              Our engineering style refers to our engineering recruiting support service, which, like our SES service, provides companies in need of internal and external talented engineers and designers with support for the onboarding process, from finding and introducing candidates, to setting up interviews with them, to hiring.
+            </p>
+            <div class="link-box mt-5">
+              <router-link class="theme-btn btn-style-one" to="/contact">
+                <i class="btn-curve"></i>
+                <span class="btn-title">View More</span>
+              </router-link>
+            </div>
+          </div>
+        </div>
+      </section>
     </section>
     <section class="gallery-section">
       <div class="auto-container">
@@ -917,9 +959,10 @@
 </script>
 
 <style>
-.tab-btn .btn-style-one .btn-title {
-  padding: 9.5px 19px 9.5px !important;
-}
+  .tab-btn .btn-style-one .btn-title {
+    padding: 9.5px 19px 9.5px !important;
+  }
+
   .agency-tabs {
     display: flex;
     flex-wrap: wrap;
@@ -1061,4 +1104,28 @@ object-fit: cover;
     -o-object-fit: cover;
     object-fit: cover;
   }
+  @media (max-width: 767px)
+{
+.service-col {
+    margin:10px 0px;
+    max-width: 100%;
+    width: 100%;
+    padding: 0px;
+}
+.service_h2{
+    flex-direction: row;
+    font-size: 20px;
+    line-height: 1.3;
+}
+.otherservice .service-row {
+    flex-direction: column;
+}
+.content-title{
+  margin-bottom: 0px;
+}
+.otherservice{
+padding: 50px 15px;
+}
+
+}
 </style>
