@@ -112,14 +112,14 @@
                   <p class="description mb-0">
                     <label for="agreecheck">
                       <router-link to="/privacy-policy" target="_top">
-                        privacy policy</router-link>
+                        Privacy Policy</router-link>
                       Please read carefully and check if there is no problem
                     </label>
                   </p>
                   <span class="value"><span>
                       <input v-model="agree" type="checkbox" name="880722_2642pi_880722_2642_13998"
                         id="880722_2642pi_880722_2642_13998" value="13998" onchange="">
-                      <label class="inline ml-1" for="880722_2642pi_880722_2642_13998">agree</label>
+                      <label class="inline ml-1" for="880722_2642pi_880722_2642_13998">&nbsp;Agree</label>
                     </span>
                   </span>
                   <div id="error_for_880722_2642pi_880722_2642" style="display:none"></div>

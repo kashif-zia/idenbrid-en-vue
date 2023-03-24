@@ -125,7 +125,7 @@
                     </div>
                     <div class="access--index highlight_blk">
                         <div class="logo">
-                            <h1>ACCEESS to Us</h1>
+                            <h1>ACCESS TO US</h1>
                         </div>
                         <div class="box flx aic jfc_sb">
                             <div class="map">
@@ -362,8 +362,7 @@
 
     .access--index .box .text_area p {
         color: #000;
-        font-family: Noto Sans JP, sans-serif;
-        font-size: 14px;
+        font-size: 16px;
         font-weight: 500;
         letter-spacing: .04em;
         line-height: 1.85;
@@ -407,12 +406,13 @@
         display: block;
         font-size: 42px;
         text-transform: uppercase;
+        font-weight: 600;
     }
 
     .logo h1 {
         font-size: 40px;
         text-align: center;
-
+        font-weight: 600;
     }
 
     .office-button-prev,
@@ -438,9 +438,8 @@
         font-family: DIN-Bold;
     }
     .office-section figure.image img {
-   /* aspect-ratio: 15/9; */
-   height: 290px;
-   border-radius: 5px;
+        aspect-ratio: 16/9;
+        border-radius: 5px;
   }
     @media screen and (max-width: 896px) {
         .lead_area {

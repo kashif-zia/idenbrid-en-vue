@@ -6167,6 +6167,7 @@ font-size: 30px;
   color: #fff;
   text-transform: uppercase;
   font-size: 60px;
+  font-weight: 700;
 }
 .why-us-section .left-col .vid-link .ripple:before {
   -webkit-animation-delay: 0.9s;

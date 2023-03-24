@@ -113,7 +113,7 @@
                     <form method="post" @submit.prevent="submitNewsLetter()">
                       <div class="form-group clearfix">
                         <input type="email" v-model="record.email" name="email" placeholder="Email Address"
-                          required="" />
+                          required />
                         <button type="submit" class="theme-btn">
                           <span class="fa fa-envelope"></span>
                         </button>
