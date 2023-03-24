@@ -7,14 +7,14 @@
                 <p class="system-sec__text">
                     Our approach at IDENBRID is to develop apps based on the requirements of our clients and end users, rather than solely from an engineer's perspective.</p>
                 <ul class="system-sec__contents">
-                    <li class="system-sec__list"><img src="/images/icons/One-stop development.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/document-creation.svg" alt=""
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">one-stop development</h3>
                         <p class="system-sec__list__text">
                             Our responsibilities include designing applications, UI/UX, and developing for both iOS and Android operating systems.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/Cross-platform-development.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/strong-customer.svg" alt=""
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Cross-platform development</h3>
                         <p class="system-sec__list__text">
@@ -37,13 +37,13 @@
                     Therefore, we offer straightforward recommendations that are easy to comprehend.
                 </p>
                 <ul class="system-sec__contents">
-                    <li class="system-sec__list"><img src="/images/icons/app-development.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/one-stop-development.svg" alt=""
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Application Development Language</h3>
                         <p class="system-sec__list__text">
                             Cross-platform development: Flutter / React Native Native Native development: Swift / Java Kotlin.</p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/app-design.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/development-language-loud.svg" alt=""
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">App Design</h3>
                         <p class="system-sec__list__text">
@@ -51,7 +51,7 @@
                             requiring unique reproduction across operating systems. Consequently, a specialized app designer will be assigned to the project.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/strong-against-examination.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/pwa.svg" alt=""
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Strong screening process</h3>
                         <p class="system-sec__list__text">
