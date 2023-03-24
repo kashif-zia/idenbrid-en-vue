@@ -46,11 +46,20 @@
             </nav>
           </div>
           <div class="other-links clearfix">
-            <div class="link-box">
-                <router-link class="link" to="/getquotation">
+            <!-- <div class="link-box">
+                <router-link class="link theme-btn btn-style-one" to="/getquotation">
                   <button class="btn-get-quote">Get Quote Us</button>
                 </router-link>
+            </div> -->
+
+
+            <div class="link-box">
+              <router-link to="/getquotation" class="theme-btn btn-style-one">
+                <i class="btn-curve"></i>
+                <span class="btn-title">Get Quote Us</span>
+              </router-link>
             </div>
+
           </div>
         </div>
       </div>

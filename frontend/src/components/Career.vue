@@ -1,64 +1,73 @@
 <template>
     <div>
-        <PageHeader title="CAREER"/>
-            <section class="Banner-module--careers--61dbe">
-                <div class="auto-container">
-                    <div class="align-items-center justify-content-center row">
-                        <div class="col-md-6">
-                            <h1 class="main-banner-heading-55">Careers at Idenbrid</h1>
-                            <div>
-                                <h4 class="font-weight-normal pb-1">Are you passionate about building your career with
-                                    opportunities to learn and lead?</h4>
-                                <p>Join us at Idenbrid - a multinational software development company based in Canada,
-                                    with
-                                    regional offices in JAPAN and Pakistan.</p>
-                            </div>
+        <PageHeader title="CAREER" />
+        <section class="Banner-module--careers--61dbe">
+            <div class="auto-container">
+                <div class="align-items-center justify-content-center row">
+                    <div class="col-md-6">
+                        <h1 class="main-banner-heading-55">Careers at Idenbrid</h1>
+                        <div>
+                            <h4 class="font-weight-normal pb-1">
+                                Are you passionate about building your career with opportunities
+                                to learn and lead?
+                            </h4>
+                            <p>
+                                Join us at Idenbrid - a multinational software development
+                                company based in Canada, with regional offices in JAPAN and
+                                Pakistan.
+                            </p>
                         </div>
-                        <div class="mt-5 mt-md-0  text-center Banner-module--col6s--d9b80 col-md-6">
-                            <div class="gatsby-image-wrapper gatsby-image-wrapper-constrained">
-                                <div style="max-width:620px;display:block">
-                                    <img alt="img" role="presentation" aria-hidden="true"
-                                        src="data:image/svg+xml;charset=utf-8,%3Csvg height='597' width='620' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E"
-                                        style="max-width:100%;display:block;position:static">
-                                </div>
-                                <img aria-hidden="true" data-placeholder-image=""
-                                    style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                    decoding="async" src="/images/background/career.webp" alt="img">
+                    </div>
+                    <div class="mt-5 mt-md-0 text-center Banner-module--col6s--d9b80 col-md-6">
+                        <div class="gatsby-image-wrapper gatsby-image-wrapper-constrained">
+                            <div style="max-width: 620px; display: block">
+                                <img alt="img" role="presentation" aria-hidden="true"
+                                    src="data:image/svg+xml;charset=utf-8,%3Csvg height='597' width='620' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E"
+                                    style="max-width: 100%; display: block; position: static" />
+                            </div>
+                            <img aria-hidden="true" data-placeholder-image="" style="
+                  opacity: 0;
+                  transition: opacity 500ms linear 0s;
+                  object-fit: cover;
+                " decoding="async" src="/images/background/career.webp" alt="img" />
+                            <picture>
+                                <source type="image/webp" srcset="
+                    /images/background/career.webp 155w,
+                    /images/background/career.webp 310w,
+                    /images/background/career.webp 620w
+                  " sizes="(min-width: 620px) 620px, 100vw" />
+                                <img width="620" height="597" data-main-image="" style="object-fit: cover; opacity: 1"
+                                    sizes="(min-width: 620px) 620px, 100vw" decoding="async" loading="lazy"
+                                    src="/images/background/career.webp" srcset="/images/background/career.webp"
+                                    alt="careers at Idenbrid" />
+                            </picture>
+                            <noscript>
                                 <picture>
-                                    <source type="image/webp" srcset="/images/background/career.webp 155w,
-                                /images/background/career.webp 310w,
-                                /images/background/career.webp 620w" sizes="(min-width: 620px) 620px, 100vw"><img
-                                        width="620" height="597" data-main-image=""
-                                        style="object-fit: cover; opacity: 1;" sizes="(min-width: 620px) 620px, 100vw"
-                                        decoding="async" loading="lazy" src="/images/background/career.webp"
-                                        srcset="/images/background/career.webp" alt="careers at Idenbrid">
-                                </picture>
-                                <noscript>
-                                    <picture>
-                                        <source type="image/webp" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/49d87/career-at-iz.webp 155w,
+                                    <source type="image/webp" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/49d87/career-at-iz.webp 155w,
   /static/0717d5b39a43ab580b2ba5e213b79f77/fd342/career-at-iz.webp 310w,
-  /static/0717d5b39a43ab580b2ba5e213b79f77/c8c8c/career-at-iz.webp 620w" sizes="(min-width: 620px) 620px, 100vw" /><img
-                                            width="620" height="597" data-main-image=""
-                                            style="object-fit:cover;opacity:0" sizes="(min-width: 620px) 620px, 100vw"
-                                            decoding="async" loading="lazy"
-                                            src="/static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg"
-                                            srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/e74c9/career-at-iz.svg 155w,
+  /static/0717d5b39a43ab580b2ba5e213b79f77/c8c8c/career-at-iz.webp 620w" sizes="(min-width: 620px) 620px, 100vw" />
+                                    <img width="620" height="597" data-main-image=""
+                                        style="object-fit: cover; opacity: 0" sizes="(min-width: 620px) 620px, 100vw"
+                                        decoding="async" loading="lazy"
+                                        src="/static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/e74c9/career-at-iz.svg 155w,
   /static/0717d5b39a43ab580b2ba5e213b79f77/4a413/career-at-iz.svg 310w,
   /static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg 620w" alt="careers at Idenbrid" /></picture>
-                                </noscript>
-                            </div>
+                            </noscript>
                         </div>
                     </div>
                 </div>
-            </section>
-            <section class="pb-0 Vacancies-module--vacancies--01001">
-                <div class="auto-container">
-                    <div class="mb-4">
-                        <div class="justify-content-between row">
-                            <div class="col-lg-4 col-md-6 col-12">
-                                <h2 class="h1">Open <span class="text-primary">Vacancies</span></h2>
-                            </div>
-                            <!-- <div class="pt-3 pt-md=0 col-lg-4 col-12">
+            </div>
+        </section>
+        <section class="pb-0 Vacancies-module--vacancies--01001">
+            <div class="auto-container">
+                <div class="mb-4">
+                    <div class="justify-content-between row">
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <h2 class="h1">
+                                Open <span class="text-primary">Vacancies</span>
+                            </h2>
+                        </div>
+                        <!-- <div class="pt-3 pt-md=0 col-lg-4 col-12">
                                 <div class=" css-2b097c-auto-container"><span aria-live="polite" aria-atomic="false"
                                         aria-relevant="additions text" class="css-7pg0cj-a11yText"></span>
                                     <div class=" css-1u8vccw-control">
@@ -80,365 +89,457 @@
                                     <input name="officeLocation" type="hidden" value="select country">
                                 </div>
                             </div> -->
-                        </div>
                     </div>
-                    <div class="Vacancies-module--my_custom_scrollbar--38c7d">
-                        <table class="mb-0 pb-0 Vacancies-module--table_card_view--9ae1f table table-borderless">
-                            <thead>
-                                <tr>
-                                    <th style="width:20%">Open Positions</th>
-                                    <th style="width:55%">Description</th>
-                                    <th style="width:10%">Location</th>
-                                    <th style="width:15%">Status</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td colspan="4"></td>
-                                </tr>
-                                <tr v-for="(job, index) in jobs" :key="index">
-                                <td class="mt-0" >
-                                    <div class="font-weight-bold text-primary" style="width: 100%;">{{job.title}}</div>
-                                    <div>{{job.timming}}</div>
+                </div>
+                <div class="Vacancies-module--my_custom_scrollbar--38c7d">
+                    <table class="mb-0 pb-0 Vacancies-module--table_card_view--9ae1f table table-borderless">
+                        <thead>
+                            <tr>
+                                <th style="width: 20%">Open Positions</th>
+                                <th style="width: 55%">Description</th>
+                                <th style="width: 10%">Location</th>
+                                <th style="width: 15%">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colspan="4"></td>
+                            </tr>
+                            <tr v-for="(job, index) in jobs" :key="index">
+                                <td class="mt-0">
+                                    <div class="font-weight-bold text-primary" style="width: 100%">
+                                        {{ job.title }}
+                                    </div>
+                                    <div>{{ job.timming }}</div>
                                 </td>
                                 <td>
-                                    <p class="three-dots" v-html="job.description" style="width: 100%;"></p>
+                                    <p class="three-dots" v-html="job.description" style="width: 100%"></p>
                                 </td>
                                 <td class="font-weight-bold">
-                                    <div  style="width: 100px; word-break: break-all;">{{job.location}}</div>
+                                    <div style="width: 100px; word-break: break-all">
+                                        {{ job.location }}
+                                    </div>
                                 </td>
-                                <td >
-                                    <router-link v-if="job.status == 'Open'" class="customstylebutton normal_custom_btn " :to="'/Job-detail/'+job.id" style="width: 100%;">
-                                        <button type="button" data-hover="Apply Now" class="btn_black_border btn btn-primary btn-job-status">
+                                <td>
+                                    <router-link v-if="job.status == 'Open'" class="customstylebutton normal_custom_btn"
+                                        :to="'/Job-detail/' + job.id" style="width: 100%">
+                                        <button type="button" data-hover="Apply Now"
+                                            class="btn_black_border btn btn-primary btn-job-status">
                                             <span>
-                                                {{job.status}}
+                                                {{ job.status }}
                                             </span>
                                         </button>
                                     </router-link>
                                     <a v-if="job.status == 'Close'" class="customstylebutton normal_custom_btn">
-                                    <button type="button" class="btn btn-primary">{{job.status}}</button>
-                                </a>
+                                        <button type="button" class="btn btn-primary">
+                                            {{ job.status }}
+                                        </button>
+                                    </a>
                                 </td>
                             </tr>
-                                <tr>
-                                    <!-- <td colspan="4">
+                            <tr>
+                                <!-- <td colspan="4">
                                         <hr class="m-0 p-0">
                                     </td> -->
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="text-center Vacancies-module--mailto--11683">You can also send your resume to
-                        <!-- --> <a href="mailto:careers@idenbrid.com"
-                            class="font-weight-bold text-primary">hr@idenbrid.com</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
-            </section>
-            <section class="Benefits-module--benefits--45c05">
-                <div class="auto-container">
-                    <div class="text-center">
-                        <h2 class="h1 main-heading-36">Perks and <span class="text-primary">Benefits</span></h2>
-                        <div class="justify-content-center row">
-                            <div class="col-md-7 col-12">Idenbrid cares about the financial and emotional well-being of
-                                its
-                                employees. While working with Idenbrid, you get the following perks and benefits:</div>
+                <div class="text-center Vacancies-module--mailto--11683">
+                    You can also send your resume to
+                    <a href="mailto:hr@idenbrid.com" class="font-weight-bold text-primary">hr@idenbrid.com</a>
+                </div>
+            </div>
+        </section>
+        <section class="Benefits-module--benefits--45c05">
+            <div class="auto-container">
+                <div class="text-center">
+                    <h2 class="h1 main-heading-36">
+                        Perks and <span class="text-primary">Benefits</span>
+                    </h2>
+                    <div class="justify-content-center row">
+                        <div class="col-md-7 col-12">
+                            Idenbrid cares about the financial and emotional well-being of its
+                            employees. While working with Idenbrid, you get the following
+                            perks and benefits:
                         </div>
                     </div>
-                    <div class="mt-5 row">
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-1 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="Company benifits" role="presentation"
-                                                    aria-hidden="true" src="/images/background/career/paid-leaves.webp">
-                                            </div>
-                                            <img class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/1_white.webp" alt="img">
-
+                </div>
+                <div class="mt-5 row">
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-1 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="Company benifits" role="presentation"
+                                                aria-hidden="true" src="/images/background/career/paid-leaves.webp" />
                                         </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/1_white.webp" alt="img" />
                                     </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Paid Leaves</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Enjoy vacations,
-                                        fulfill personal responsibilities, or just take some rest by availing paid
-                                        leaves.
-                                    </p>
                                 </div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53  ben-2 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/6.webp"
-                                                    style="max-width:100%;display:block;position:static"></div>
-                                            <img class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/6_white.webp" alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Growing And Dynamic Team</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">A growing team provides
-                                        more learning opportunities.</p>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">Paid Leaves</h3>
                                 </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53  ben-3 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/7.webp"
-                                                    style="max-width:100%;display:block;position:static"></div>
-                                            <img class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/7_white.webp" alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Medical Coverage</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">We hope you don’t have
-                                        to use the benefit of having In-Patient/Out-Patient coverage!</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-5 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/10.webp"
-                                                    style="max-width:100%;display:block;position:static"></div>
-                                            <img class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/10_white.webp"
-                                                alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Annual Increment</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">If you value us and the
-                                        work you do, we will value the time you gave us!</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-6 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/12.webp"
-                                                    style="max-width:100%;display:block;position:static"></div>
-                                            <img class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/12_white.webp"
-                                                alt="Company benifit image">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Performance-Based Bonuses</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">We appreciate our
-                                        hardworking and top-performing employees with bonuses.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-4 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/9.webp"
-                                                    style="max-width:100%;display:block;position:static"></div>
-                                            <img class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/9_white.webp" alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Gaming Facility</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">The office doesn’t have
-                                        to be boring. Light up the atmosphere and enjoy yourself with your team!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-11 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/21.webp"
-                                                    style="max-width:100%;display:block;position:static"></div><img
-                                                class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/21_white.webp"
-                                                alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Employee Discount Program</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Enjoy exclusive
-                                        discounts on selected restaurants.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-7 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/15.webp"
-                                                    style="max-width:100%;display:block;position:static"></div><img
-                                                class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/15_white.webp"
-                                                alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Paid Internships</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Enjoy paid internships
-                                        with an opportunity to learn from the experts.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-8 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class=" gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/16.webp"
-                                                    style="max-width:100%;display:block;position:static"></div><img
-                                                class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/16_white.webp"
-                                                alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Annual Recreational Trips</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Idenbrid arranges
-                                        annual leisure and recreational trips for employees.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-9 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/17.webp"
-                                                    style="max-width:100%;display:block;position:static"></div><img
-                                                class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/17_white.webp"
-                                                alt="img">
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Team And Company-Wide Dinners</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Connect with other
-                                        teams, make new friends, and enjoy food with company-sponsored dinners.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-10 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/18.webp"
-                                                    style="max-width:100%;display:block;position:static"></div><img
-                                                class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/18_white.webp"
-                                                alt="img">
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Self-Service Pantry</h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Craving a cup of tea or
-                                        coffee? Idenbrid provides a self-service pantry for everyone.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex;">
-                            <div class="Benefits-module--card--2ac53 ben-12 card">
-                                <div class="card-body">
-                                    <div class="mb-2">
-                                        <div class="gatsby-image-wrapper-constrained">
-                                            <div style="max-width:58px;display:block">
-                                                <img class="default" alt="img" role="presentation" aria-hidden="true"
-                                                    src="/images/background/career/Lunch-blue.webp"
-                                                    style="max-width:100%;display:block;position:static"></div><img
-                                                class="hover" aria-hidden="true" data-placeholder-image=""
-                                                style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                                decoding="async" src="/images/background/career/Lunch-white.webp"
-                                                alt="img">
-
-                                        </div>
-                                    </div>
-                                    <div class="card-title h5">
-                                        <h3 class="h5 font-weight-normal mb-0">Subsidized Lunch Facility </h3>
-                                    </div>
-                                    <p class="h5" style="font-size: 16px;">Offering subsidized
-                                        lunch services for all employees.</p>
-                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Enjoy vacations, fulfill personal responsibilities, or just
+                                    take some rest by availing paid leaves.
+                                </p>
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="text-center mt-5">
+
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-2 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/6.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/6_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Growing And Dynamic Team
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    A growing team provides more learning opportunities.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-3 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/7.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/7_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">Medical Coverage</h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    We hope you don’t have to use the benefit of having
+                                    In-Patient/Out-Patient coverage!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-5 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/10.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/10_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">Annual Increment</h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    If you value us and the work you do, we will value the time
+                                    you gave us!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-6 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/12.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/12_white.webp" alt="Company benifit image" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Performance-Based Bonuses
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    We appreciate our hardworking and top-performing employees
+                                    with bonuses.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-4 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/9.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/9_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">Gaming Facility</h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    The office doesn’t have to be boring. Light up the atmosphere
+                                    and enjoy yourself with your team!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-11 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/21.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/21_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Employee Discount Program
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Enjoy exclusive discounts on selected restaurants.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-7 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/15.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/15_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">Paid Internships</h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Enjoy paid internships with an opportunity to learn from the
+                                    experts.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-8 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/16.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/16_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Annual Recreational Trips
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Idenbrid arranges annual leisure and recreational trips for
+                                    employees.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-9 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/17.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/17_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Team And Company-Wide Dinners
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Connect with other teams, make new friends, and enjoy food
+                                    with company-sponsored dinners.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-10 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/18.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/18_white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Self-Service Pantry
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Craving a cup of tea or coffee? Idenbrid provides a
+                                    self-service pantry for everyone.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-12" style="padding: 10px; display: flex">
+                        <div class="Benefits-module--card--2ac53 ben-12 card">
+                            <div class="card-body">
+                                <div class="mb-2">
+                                    <div class="gatsby-image-wrapper-constrained">
+                                        <div style="max-width: 58px; display: block">
+                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                                src="/images/background/career/Lunch-blue.webp" style="
+                          max-width: 100%;
+                          display: block;
+                          position: static;
+                        " />
+                                        </div>
+                                        <img class="hover" aria-hidden="true" data-placeholder-image="" style="
+                        opacity: 0;
+                        transition: opacity 500ms linear 0s;
+                        object-fit: cover;
+                      " decoding="async" src="/images/background/career/Lunch-white.webp" alt="img" />
+                                    </div>
+                                </div>
+                                <div class="card-title h5">
+                                    <h3 class="h5 font-weight-normal mb-0">
+                                        Subsidized Lunch Facility
+                                    </h3>
+                                </div>
+                                <p class="h5" style="font-size: 16px">
+                                    Offering subsidized lunch services for all employees.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="text-center mt-5">
                         <div>Want to know more about Idenbrid’s work culture and professional community?</div>
                         <div class="mt-4">
                             <a href="/contact-us/">
@@ -447,29 +548,33 @@
                             </a>
                         </div>
                     </div> -->
-                </div>
-            </section>
-        </div>
+            </div>
+        </section>
+    </div>
 </template>
 <script>
-import PageHeader from '../views/PageHeader.vue';
-import axios from 'axios';
+    import PageHeader from "../views/PageHeader.vue";
+    import axios from "axios";
     export default {
-        components:{PageHeader},
-        data(){
-            return{
-                jobs:[],
-            }
+        components: {
+            PageHeader,
         },
-        mounted(){
-            axios.get('/api/get-jobs').then((res)=>{
-                this.jobs = res.data;
-            })
-            .catch((err)=>{});
-        }
-    }
-</script> 
-<style scoped >
+        data() {
+            return {
+                jobs: [],
+            };
+        },
+        mounted() {
+            axios
+                .get("/api/get-jobs")
+                .then((res) => {
+                    this.jobs = res.data;
+                })
+                .catch((err) => {});
+        },
+    };
+</script>
+<style scoped>
     .btn-job-status {
         display: flex;
         justify-content: center;
@@ -489,15 +594,15 @@ import axios from 'axios';
 
     .btn-job-status:before,
     .btn-job-status:after {
-        content: '';
+        content: "";
         position: absolute;
         font-size: 10px;
         text-align: center;
         opacity: 0;
-        -webkit-transition: .3s, opacity .6s;
-        -moz-transition: .3s, opacity .6s;
-        -o-transition: .3s, opacity .6s;
-        transition: .3s, opacity .6s;
+        -webkit-transition: 0.3s, opacity 0.6s;
+        -moz-transition: 0.3s, opacity 0.6s;
+        -o-transition: 0.3s, opacity 0.6s;
+        transition: 0.3s, opacity 0.6s;
     }
 
     /* :before */
@@ -543,10 +648,10 @@ import axios from 'axios';
         -ms-transform: translate(0, 0);
         -o-transform: translate(0, 0);
         transform: translate(0, 0);
-        -webkit-transition-delay: .4s;
-        -moz-transition-delay: .4s;
-        -o-transition-delay: .4s;
-        transition-delay: .4s;
+        -webkit-transition-delay: 0.4s;
+        -moz-transition-delay: 0.4s;
+        -o-transition-delay: 0.4s;
+        transition-delay: 0.4s;
     }
 
     /* 
@@ -588,16 +693,16 @@ import axios from 'axios';
         background-repeat: no-repeat;
         background-size: 100% 100%;
         padding-bottom: 100px;
-        padding-top: 100px
+        padding-top: 100px;
     }
 
     .Banner-module--careers--61dbe .Banner-module--col6s--d9b80 {
-        min-height: 400px
+        min-height: 400px;
     }
 
     .Banner-module--careers--61dbe .Banner-module--col6s--d9b80 img {
         max-height: 469px;
-        max-width: 488px
+        max-width: 488px;
     }
 
     .main-banner-heading-55 {
@@ -611,16 +716,16 @@ import axios from 'axios';
     }
 
     .Banner-module--careers--61dbe .Banner-module--col6s--d9b80 {
-        min-height: 400px
+        min-height: 400px;
     }
 
     .gatsby-image-wrapper {
         position: relative;
-        overflow: hidden
+        overflow: hidden;
     }
 
     .gatsby-image-wrapper picture.object-fit-polyfill {
-        position: static !important
+        position: static !important;
     }
 
     .gatsby-image-wrapper img {
@@ -634,32 +739,32 @@ import axios from 'axios';
         right: 0;
         top: 0;
         width: 100%;
-        object-fit: cover
+        object-fit: cover;
     }
 
     .gatsby-image-wrapper [data-main-image] {
         opacity: 0;
         transform: translateZ(0);
-        transition: opacity .25s linear;
+        transition: opacity 0.25s linear;
         will-change: opacity;
     }
 
     .gatsby-image-wrapper-constrained {
         display: inline-block;
-        vertical-align: top
+        vertical-align: top;
     }
 
     .gatsby-image-wrapper noscript [data-main-image] {
-        opacity: 1 !important
+        opacity: 1 !important;
     }
 
     .gatsby-image-wrapper [data-placeholder-image] {
-        opacity: 0 !important
+        opacity: 0 !important;
     }
 
     .gatsby-image-wrapper-constrained {
         display: inline-block;
-        vertical-align: top
+        vertical-align: top;
     }
 
     /* sectio vacancies  */
@@ -670,7 +775,7 @@ import axios from 'axios';
     }
 
     .text-primary {
-        color: #2980B9 !important;
+        color: #2980b9 !important;
         /* width: 120px; */
     }
 
@@ -773,13 +878,13 @@ import axios from 'axios';
     }
 
     .Vacancies-module--my_custom_scrollbar--38c7d {
-        height: 560px
+        height: 560px;
     }
 
     .Vacancies-module--my_custom_scrollbar--38c7d tbody {
         height: 500px;
         overflow-y: auto;
-        width: 100%
+        width: 100%;
     }
 
     .table-borderless tbody+tbody,
@@ -834,13 +939,12 @@ import axios from 'axios';
 
     .hover {
         display: none;
-        transition: 0.3s linear all
+        transition: 0.3s linear all;
     }
 
     .default {
         display: block;
         transition: 0.3s linear all;
-
     }
 
     .ben-1,
@@ -898,7 +1002,7 @@ import axios from 'axios';
 
     .ben-1:hover {
         color: #fff;
-        background: #FF4081;
+        background: #ff4081;
         cursor: pointer;
     }
 
@@ -908,7 +1012,7 @@ import axios from 'axios';
 
     .ben-2:hover {
         color: #fff;
-        background: #1363AB;
+        background: #1363ab;
         cursor: pointer;
     }
 
@@ -918,7 +1022,7 @@ import axios from 'axios';
 
     .ben-3:hover {
         color: #fff;
-        background: #F37B20;
+        background: #f37b20;
         cursor: pointer;
     }
 
@@ -928,7 +1032,7 @@ import axios from 'axios';
 
     .ben-4:hover {
         color: #fff;
-        background: #F37B20;
+        background: #f37b20;
         cursor: pointer;
     }
 
@@ -938,7 +1042,7 @@ import axios from 'axios';
 
     .ben-5:hover {
         color: #fff;
-        background: #9B5C8F;
+        background: #9b5c8f;
         cursor: pointer;
     }
 
@@ -948,7 +1052,7 @@ import axios from 'axios';
 
     .ben-6:hover {
         color: #fff;
-        background: #5B71AB;
+        background: #5b71ab;
         cursor: pointer;
     }
 
@@ -958,7 +1062,7 @@ import axios from 'axios';
 
     .ben-7:hover {
         color: #fff;
-        background: #FF4081;
+        background: #ff4081;
         cursor: pointer;
     }
 
@@ -968,7 +1072,7 @@ import axios from 'axios';
 
     .ben-8:hover {
         color: #fff;
-        background: #DFB757;
+        background: #dfb757;
         cursor: pointer;
     }
 
@@ -978,7 +1082,7 @@ import axios from 'axios';
 
     .ben-9:hover {
         color: #fff;
-        background: #9B5C8F;
+        background: #9b5c8f;
         cursor: pointer;
     }
 
@@ -988,7 +1092,7 @@ import axios from 'axios';
 
     .ben-10:hover {
         color: #fff;
-        background: #5E8E3E;
+        background: #5e8e3e;
         cursor: pointer;
     }
 
@@ -998,7 +1102,7 @@ import axios from 'axios';
 
     .ben-11:hover {
         color: #fff;
-        background: #5E8E3E;
+        background: #5e8e3e;
         cursor: pointer;
     }
 
@@ -1008,7 +1112,7 @@ import axios from 'axios';
 
     .ben-12:hover {
         color: #fff;
-        background: #1363AB;
+        background: #1363ab;
         cursor: pointer;
     }
 
@@ -1018,7 +1122,7 @@ import axios from 'axios';
 
     .Banner-module--careers--61dbe .Banner-module--col6s--d9b80 img {
         max-height: 469px;
-        max-width: 488px
+        max-width: 488px;
     }
 
     .Vacancies-module--table_card_view--9ae1f tbody tr:hover {
@@ -1026,10 +1130,10 @@ import axios from 'axios';
         box-shadow: -2px 13px 24px 0 rgb(0 0 0 / 5%);
     }
 
-    @media(max-width:2333px) {
+    @media (max-width: 2333px) {
         .newsPost-module--content--SXPGr .gatsby-image-wrapper {
             margin: 0 0 1rem;
-            padding: 0
+            padding: 0;
         }
     }
 
@@ -1041,9 +1145,9 @@ import axios from 'axios';
         }
     }
 
-    @media screen and (max-width:992px) {
+    @media screen and (max-width: 992px) {
         .Banner-module--careers--61dbe .Banner-module--col6s--d9b80 {
-            min-height: auto
+            min-height: auto;
         }
     }
 
@@ -1090,13 +1194,13 @@ import axios from 'axios';
         .Vacancies-module--my_custom_scrollbar--38c7d tbody {
             overflow-y: scroll;
             padding-right: 5px;
-            position: absolute
+            position: absolute;
         }
     }
 
-    @media(max-width:768px) {
+    @media (max-width: 768px) {
         .main-banner-heading-55 {
-            font-size: 40px
+            font-size: 40px;
         }
 
         .Vacancies-module--my_custom_scrollbar--38c7d {
@@ -1117,9 +1221,9 @@ import axios from 'axios';
         }
     }
 
-    @media(max-width:320px) {
+    @media (max-width: 320px) {
         .main-banner-heading-55 {
-            font-size: 34px
+            font-size: 34px;
         }
     }
 </style>

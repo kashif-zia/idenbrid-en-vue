@@ -1,82 +1,100 @@
 <template>
     <div>
-        <PageHeader title="PRIVACY POLICY"/>
+        <PageHeader title="PRIVACY POLICY" />
         <section class="section-policy">
             <div class="auto-container">
-            <div class="hero_Heading">
-                <h4 class="hero">Privacy Policy</h4>
-                <p class="digital-subcontents__text">This page displays our privacy policy.</p>
-            </div>
-            <section class="mycontents-wide privacy">
-                <p class="privacy__text">
-                    Idenbrid Inc. handles personal information of customers and employees in the system development business, Internet service business, and media business. We believe that the protection of personal information is the basis of our business activities and our social responsibility. Therefore, based on this personal information protection policy, all employees involved in business activities will work together to realize the appropriate handling of personal information.
-                </p>
-
-                <h3 class="privacy__subtitle">
-                    Article 1 (Appropriate Acquisition, Use, and Provision of Personal Information
-                </h3>
-                <p class="privacy__text">
-                    We will acquire personal information in an appropriate manner to the extent necessary for business execution.
-                     The use of personal information shall be within the scope of the specified purpose of use, and when changing 
-                     the purpose of use, we will notify the person in advance and obtain consent before doing so. Personal information 
-                     will not be provided to a third party without the consent of the individual, except when outsourcing work. In order
-                      to prevent the use and provision of personal information for purposes other than the intended purpose, the use and 
-                      provision of personal information is performed after the personal information protection manager confirms its appropriateness. 
-                    We are also strengthening control activities through activities such as voluntary inspections and internal audits. 
-                               </p>
-
-                <h3 class="privacy__subtitle">
-                    Article 2 (Safety control measures for personal information protection)
-                </h3>
-                <h4 class="privacy__label">
-                    1. Preventive measures against leakage, loss, damage, etc. of personal information
-                </h4>
-                <p class="privacy__text">
-                    Our company implements appropriate security measures to prevent leakage, loss and damage of personal information. In addition, in order to ensure that these are thoroughly implemented, we train and supervise our employees on a daily basis. When outsourcing the handling of personal information, we strictly select and supervise the contractor.                </p>
-                <h4 class="privacy__label">
-                    2.Corrective measures for personal information leakage, loss, damage, etc.
-                </h4>
-                <p class="privacy__text">
-                    In the event of leakage, loss, damage, etc. of personal information, we will give top priority to preventing the spread of damage and promptly take corrective action, investigate the cause, and strive to prevent recurrence. In addition, we will report information about the accident to the relevant parties and organizations to the extent necessary.                </p>
-
-                <h3 class="privacy__subtitle">
-                    Article 3 (Compliance with laws, government policies, and other norms)
-                </h3>
-                <p class="privacy__text">
-                    We will comply with laws and related laws and regulations regarding the handling of personal information, guidelines established by the government, and norms of affiliated organizations.
-                </p>
-
-                <h3 class="privacy__subtitle">
-                    Article 4 (Continuous Improvement of Personal Information Protection Management System)
-                </h3>
-                <p class="privacy__text">
-                    We will implement and maintain a management system for the protection of personal information, review it regularly, and strive for continuous improvement.
-                </p>
-
-                <h3 class="privacy__subtitle">
-                    Article 5 (Response to Complaints and Consultations Regarding Personal Information)
-                </h3>
-                <p class="privacy__text">
-                    If you wish to make a complaint or consult with us regarding the handling of personal information, please contact the "Personal Information Inquiry Desk" below. In addition, we will respond to inquiries regarding our personal information protection at the following.                </p>
-                <div class="privacy__about">
-                    <p class="privacy__about__title">Personal Information Inquiry Desk</p>
-                    <p class="privacy__about__about">
-                        IDENBRID INC.
-                        <br>Email：contactusjp@idenbrid.com
-                        <br>Reception time：weekday 14:00〜22:00
-                    </p>
+                <div class="hero_Heading">
+                    <h4 class="hero">Privacy Policy</h4>
+                    <p class="digital-subcontents__text">This page displays our privacy policy.</p>
                 </div>
+                <section class="mycontents-wide privacy">
+                    <p class="privacy__text">
+                        At Idenbrid Inc, we manage the personal information of both customers and employees engaged in
+                        the system development,
+                        internet service, and media businesses. We recognize the importance of safeguarding personal
+                        information and view it as a
+                        fundamental aspect of our business activities and social responsibility.
+                        Accordingly, all employees involved in our operations are committed to ensuring that personal
+                        information is handled appropriately, in accordance with this policy.</p>
+                    <h3 class="privacy__subtitle">
+                        Article 1 (Appropriate Acquisition, Use, and Provision of Personal Information)
+                    </h3>
+                    <p class="privacy__text">
+                        We will collect personal information in a manner that is appropriate and necessary for the
+                        execution of our business activities. The use of personal information will be limited to the
+                        intended purpose, and if there is a need to change its purpose, we will seek the individual's
+                        consent before doing so. Personal information will not be disclosed to third parties unless we
+                        have the individual's permission or have outsourced our work. To prevent any unauthorized use or
+                        disclosure of personal information, its use and disclosure will be verified for its
+                        appropriateness by the personal information protection manager. We also conduct voluntary
+                        inspections and internal audits to reinforce our control activities.
+                    </p>
 
-            </section>
-          
-        </div>
-    </section>
+                    <h3 class="privacy__subtitle">
+                        Article 2 (Safety control measures for personal information protection)
+                    </h3>
+                    <h4 class="privacy__label">
+                        1. We implement measures to prevent the leakage, loss, damage, and other risks to personal
+                        information.
+                    </h4>
+                    <p class="privacy__text">
+                        To prevent personal information from being leaked, lost, or damaged, we implement suitable
+                        security measures in our company. Moreover, we ensure that these measures are well-implemented
+                        by providing daily training and supervision to our employees.
+                        When we outsource the handling of personal information, we carefully select and monitor the
+                        contractors to maintain the security of personal information. </p>
+                    <h4 class="privacy__label">
+                        2.Measures taken to address personal information leakage, loss, damage, and other incidents.
+                    </h4>
+                    <p class="privacy__text">
+                        If there is a personal information breach, our top priority is to prevent further damage and
+                        take corrective measures immediately. We investigate the cause of the incident and take steps to
+                        prevent it from happening again. Also, we report relevant information to the appropriate parties
+                        and organizations as needed. </p>
+
+                    <h3 class="privacy__subtitle">
+                        Article 3 (Compliance with regulations and norms)
+                    </h3>
+                    <p class="privacy__text">
+                        Our company will adhere to laws, regulations, and guidelines related to the handling of personal
+                        information, as well as the norms established by affiliated organizations. </p>
+
+                    <h3 class="privacy__subtitle">
+                        Article 4 (Continuous enhancement of the personal information protection management system)
+                    </h3>
+                    <p class="privacy__text">
+                        Our company will establish and uphold a personal information protection management system,
+                        conduct periodic evaluations, and continuously improve upon it.
+                    </p>
+
+                    <h3 class="privacy__subtitle">
+                        Article 5 (Handling complaints and inquiries related to personal information)
+                    </h3>
+                    <p class="privacy__text">
+                        Please contact our "Personal Information Inquiry Desk" below for any complaints or consultations
+                        regarding the handling of personal information. We also welcome inquiries regarding our personal
+                        information protection at the following contact point. </p>
+                    <div class="privacy__about">
+                        <p class="privacy__about__title">Personal Information Inquiry Desk</p>
+                        <p class="privacy__about__about">
+                            IDENBRID INC.
+                            <br>Email：contactusen@idenbrid.com
+                            <br>Reception time：weekday 09:00〜07:00
+                        </p>
+                    </div>
+
+                </section>
+
+            </div>
+        </section>
     </div>
 </template>
 <script>
-import PageHeader from '../views/PageHeader.vue';
+    import PageHeader from '../views/PageHeader.vue';
     export default {
-        components: {PageHeader},
+        components: {
+            PageHeader
+        },
         metaInfo() {
             return {
                 title: "FAQ | System development by IDENBRID | IDENBRID INC.",
@@ -87,15 +105,15 @@ import PageHeader from '../views/PageHeader.vue';
                 }, ],
             };
         },
-        mounted() {
-        }
+        mounted() {}
     };
 </script>
 
 <style scoped>
-.section-policy{
-    padding: 90px 0px;
-}
+    .section-policy {
+        padding: 90px 0px;
+    }
+
     .top-item .top-title {
         font-family: 'Noto Sans JP', sans-serif;
         font-weight: 700;
@@ -104,18 +122,22 @@ import PageHeader from '../views/PageHeader.vue';
         margin-left: 14px;
         text-transform: uppercase;
     }
+
     .list-faq {
         justify-content: space-between;
     }
+
     .d-flex {
         display: flex;
         flex-wrap: wrap;
     }
+
     .mw-780 {
         max-width: 780px;
         margin: 0 auto;
         width: 100%;
     }
+
     .privacy__subtitle {
         margin-bottom: 10px;
         font-weight: bold;
@@ -124,6 +146,7 @@ import PageHeader from '../views/PageHeader.vue';
         text-decoration-line: underline;
         color: var(--textcolor);
     }
+
     .privacy__text {
         margin-bottom: 30px;
         font-family: 'Noto Sans JP', sans-serif;
@@ -132,21 +155,25 @@ import PageHeader from '../views/PageHeader.vue';
         line-height: 25px;
         color: var(--textcolor);
     }
+
     .privacy__about {
         display: block;
         margin: 0 0 0 auto;
         width: 400px;
     }
+
     @media (max-width: 767px) {
-    .section-policy {
-    padding: 30px 0px;
-}
-.privacy__label{
-    font-size: 23px;    
-}
-.privacy__about{
-margin: 0px;
-width: 100%;
-}
+        .section-policy {
+            padding: 30px 0px;
+        }
+
+        .privacy__label {
+            font-size: 23px;
+        }
+
+        .privacy__about {
+            margin: 0px;
+            width: 100%;
+        }
     }
 </style>
