@@ -120,6 +120,11 @@ const router = createRouter({
       name: 'Website Consulting',
       component: () => import('../components/WebsiteConsulting.vue')
     },
+    {
+      path: '/development',
+      name: 'Software Development',
+      component: () => import('../components/Development.vue')
+    },
   ]
 })
 
