@@ -100,6 +100,16 @@ const router = createRouter({
       name: 'PrivacyPolicy',
       component: () => import('../components/PrivacyPolicy.vue')
     },
+    {
+      path: '/ses',
+      name: 'System Engineering Service',
+      component: () => import('../components/Ses.vue')
+    },
+    {
+      path: '/mobile-app',
+      name: 'Mobile Application',
+      component: () => import('../components/MobileApp.vue')
+    },
   ]
 })
 

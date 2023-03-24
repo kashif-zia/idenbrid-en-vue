@@ -43,7 +43,7 @@
 
                       <h2 class="txt-rotate ml-0" data-period="2000"
                         data-rotate='[ "ONE TEAM", "By abundant experience", "By TECHNOLOGY", "By hot PASSION" ]'></h2>
-                      <h3 class="sub-title">Resolve your user pane.</h3>
+                      <h3 class="sub-title">We solve your user pains.</h3>
                       <div class="link-box">
                         <router-link class="theme-btn btn-style-one" to="/doc">
                           <i class="btn-curve"></i>
