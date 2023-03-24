@@ -96,21 +96,32 @@
             </section>
             <section class="exp-menu-list">
                 <div class="menu-box">
-                    <div class="item"><a href="/development/" class="text"><img
-                                src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
-                        </a></div>
-                    <div class="item"><a href="/mobileapp/"
-                            class="text router-link-exact-active router-link-active"><img
+                    <div class="item">
+                        <span  class="text">
+                            <img src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
+                        </span>
+                    </div>
+                    <div class="item">
+                        <span aria-current="page"
+                            class="text router-link-exact-active router-link-active router-link-exact-active router-link-active"><img
                                 src="/images/icons/icons8-iphone-14-pro-80.png">Smartphone application development
-                        </a></div>
-                    <div class="item"><a href="/uiuxdesign/" class="text"><img
-                                src="/images/icons/icons8-illustrator-80.png">UIUX design production
-                        </a></div>
-                    <div class="item"><a href="/webitconsulting/" aria-current="page"
-                            class="text router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-flight-trip-64.png">Offshore development</a></div>
-                    <div class="item"><a href="/engineerstyle/" class="text"><img
-                                src="/images/icons/color-icon-logo.png">SES Engineer Style</a></div>
+                    </span>
+                    </div>
+                    <div class="item">
+                        <span class="text">
+                            <img src="/images/icons/icons8-illustrator-80.png">UIUX design production
+                        </span>
+                    </div>
+                    <div class="item">
+                        <span class="text"><img
+                                src="/images/icons/icons8-flight-trip-64.png">offshore development</span>
+                            
+                        </div>
+                    <div class="item">
+                        <span class="text"><img
+                                src="/images/icons/color-icon-logo.png">SES Engineer Style
+                        </span>
+                    </div>
                 </div>
             </section>
         </main>

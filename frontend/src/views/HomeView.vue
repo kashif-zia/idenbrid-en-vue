@@ -400,7 +400,7 @@
               Studio Development Hub provides IT contract development services for Japanese and global companies. Studio Development Hub provides IT contract development services for Japanese and global companies, as well as general offshore development services for Pakistani engineers on a month-to-month basis.
             </p>
             <div class="link-box mt-5">
-              <router-link class="theme-btn btn-style-one" to="/contact">
+              <router-link class="theme-btn btn-style-one" to="/development">
                 <i class="btn-curve"></i>
                 <span class="btn-title">View More</span>
               </router-link>
@@ -422,7 +422,7 @@
               Our engineering style refers to our engineering recruiting support service, which, like our SES service, provides companies in need of internal and external talented engineers and designers with support for the onboarding process, from finding and introducing candidates, to setting up interviews with them, to hiring.
             </p>
             <div class="link-box mt-5">
-              <router-link class="theme-btn btn-style-one" to="/contact">
+              <router-link class="theme-btn btn-style-one" to="/ses">
                 <i class="btn-curve"></i>
                 <span class="btn-title">View More</span>
               </router-link>
