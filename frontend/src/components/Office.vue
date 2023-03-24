@@ -1,104 +1,178 @@
 <template>
-    <PageHeader title="OFFICE"/>
-    <section class="office-section">
-        <div class="auto-container">
-            <div class="mv_textarea my-5">
-                <h2 class="text-center">
-                    <p class="en entxt">OFFICE & ACCESS </p>
-                    <p class="jptxt">Introducing our headquarters in Lahore, Pakistan</p>
-                </h2>
-            </div>
-            <main>
-                <div class="lead_area">
-                    <div class="lead_inner">
-                        <h3 class="lead_ttl fade_y on">
-                            <h3 class="content-title">OFFICE ENVIRONMENT</h3>
-                            The important thing is<br>Building an environment where the team wants to work
-                        </h3>
-                        <p class="lead_txt fade_y on">
-                            Office where you spend much of your day。<br class="pc">Since Corona, we have been working
-                            more and more in a remote environment, but we still value the presence of the office in our
-                            company. The power of a team gathered in one place and focused is amazing.
-                            Creating a space that makes people want to work at this company is a direction we will
-                            continue to aim for in the future to support our creativity.。</p>
+    <div>
+        <PageHeader title="OFFICE" />
+        <section class="office-section">
+            <div class="auto-container">
+                <!-- <div class="mv_textarea my-5">
+                    <h2 class="text-center">
+                        <p class="en entxt">OFFICE & ACCESS </p>
+                        <p class="jptxt">Introducing our headquarters in Lahore, Pakistan</p>
+                    </h2>
+                </div> -->
+                <main>
+                    <div class="lead_area">
+                        <div class="lead_inner">
+                            <div class="lead_ttl fade_y on">
+                                <h3 class="content-title">OFFICE ENVIRONMENT</h3>
+
+                              <p class="content-sub-title">  The important thing is<br>Building an environment where the team wants to work</p>
+                            </div>
+                            <p class="lead_txt fade_y on">
+                                Office where you spend much of your day。<br class="pc">Since Corona, we have been
+                                working
+                                more and more in a remote environment, but we still value the presence of the office in
+                                our
+                                company. The power of a team gathered in one place and focused is amazing.
+                                Creating a space that makes people want to work at this company is a direction we will
+                                continue to aim for in the future to support our creativity。</p>
+                        </div>
                     </div>
-                </div>
-                <div class="slider-title">
-                    <div class="swiper-pagination office-swiper-pagination"></div>
-                    <!-- <div class="swiper-button-next office-button-next"><i class="fa fa-arrow-right"></i></div>
+                    <div class="slider-title">
+                        <div class="swiper-pagination office-swiper-pagination"></div>
+                        <!-- <div class="swiper-button-next office-button-next"><i class="fa fa-arrow-right"></i></div>
                     <div class="swiper-button-prev office-button-prev"><i class="fa fa-arrow-left"></i></div> -->
-                    <div class="swiper mySwiper-main">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="/images/officeand-access.png" alt="Office access image">
-                                <p>Entrance / Approach</p>
-                            </div>
+                        <div class="swiper mySwiper-main">
+                            <div class="swiper-wrapper">
+                                 <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office2.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
 
+                                            <img src="/images/office/office2.jpg"   class="lightbox-image overlay-box" data-fancybox="gallery" alt="Office access image">
+                                        </figure>
+                                        
+                                      
+                                    </a>
+                                </div>
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office3.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office3.jpg"   class="lightbox-image overlay-box" data-fancybox="gallery" alt="Office access image">
+                                </figure>
+                                    
+                                    </a>
+                                </div>
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office4.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office4.jpg"   class="lightbox-image overlay-box" data-fancybox="gallery" alt="Office access image">
+                                    </figure>
+                                   
+                                    </a>
+                                </div>
+                                
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office6.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office6.jpg"   class="lightbox-image overlay-box" data-fancybox="gallery" alt="Office access image">
+                                    </figure>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office9.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office9.jpg"   class="lightbox-image overlay-box" data-fancybox="gallery" alt="Office access image">
+                                    </figure>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office10.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office10.jpg"  class="lightbox-image overlay-box" data-fancybox="gallery"  alt="Office access image">
+                                    </figure>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office11.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office11.jpg"  class="lightbox-image overlay-box" data-fancybox="gallery"  alt="Office access image">
+                                    </figure>
+                                    </a>
+                                </div>
+                                <!-- <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office5.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office5.jpg"   class="lightbox-image overlay-box" data-fancybox="gallery" alt="Office access image">
+                                    </figure>
+                                    
+                                    </a>
+                                </div> -->
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office12.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office12.jpg"  class="lightbox-image overlay-box" data-fancybox="gallery"  alt="Office access image">
+                                    </figure>
+                                    </a>
+                                </div>
+                                <div class="swiper-slide mix">
+                                    <a title="click to zoom-in " href="/images/office/office13.jpg"
+                                        itemprop="contentUrl " data-size="1200x600 ">
+                                        <figure class="image">
+                                    <img src="/images/office/office13.jpg"  class="lightbox-image overlay-box" data-fancybox="gallery"  alt="Office access image">
+                                    </figure>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="access--index highlight_blk">
-                    <div class="logo">
-                        <h1>ACCEESS to Us</h1>
-                    </div>
-                    <div class="box flx aic jfc_sb">
-                        <div class="map">
+                    <div class="access--index highlight_blk">
+                        <div class="logo">
+                            <h1>ACCEESS to Us</h1>
+                        </div>
+                        <div class="box flx aic jfc_sb">
+                            <div class="map">
 
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5116.628349312717!2d74.37810117146583!3d31.47108330229046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391907530d966bf3%3A0x99ab6b175fc81d7d!2zSURFTkJSSUQgSU5DLiAvIOOCouOCpOODh-ODs-ODluODquODg-ODieekvg!5e0!3m2!1sen!2s!4v1668775614632!5m2!1sen!2s"
-                                style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                        </div>
-                        <div class="text_area">
-                            <p class="place">Pakistan Head Office<br>54000<br>Basement 1st floor, 176 Y-Block, DHA
-                                Phase3, Lahore,
-                                Pakistan</p>
-                            <p class="number">
-                                TEL : <a href="tel:+923064041221" class="tel_link no_link">+92306-404-1221</a><br>
-                                MAIL : <a href="mailto:contactusjp@idenbrid.com">contactusjp@idenbrid.com</a>
-                            </p>
-                            <p class="station">
-                                Lahore Airport<br class="sp">15 minutes by car<br>
-                                Gulberg center<br class="sp">20 minutes by car
-                            </p>
-                            <a href="https://www.google.com/maps/search/176+Y-Block,+DHA+Phase3,+Lahore,+Pakistan/@31.4722224,74.3767664,21z"
-                                class="more_txt fade_y on" target="_blank">
-                                <span class="underline">Google Map</span></a>
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5116.628349312717!2d74.37810117146583!3d31.47108330229046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391907530d966bf3%3A0x99ab6b175fc81d7d!2zSURFTkJSSUQgSU5DLiAvIOOCouOCpOODh-ODs-ODluODquODg-ODieekvg!5e0!3m2!1sen!2s!4v1668775614632!5m2!1sen!2s"
+                                    style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            </div>
+                            <div class="text_area">
+                                <p class="place">Pakistan Head Office 54000<br>Basement 1st floor, 176 Y-Block, DHA
+                                    Phase3, Lahore,
+                                    Pakistan</p>
+                                <p class="number">
+                                    TEL : <a href="tel:+923064041221" class="tel_link no_link">+92306-404-1221</a><br>
+                                    MAIL : <a href="mailto:contactusjp@idenbrid.com">contactusen@idenbrid.com</a>
+                                </p>
+                                <p class="station">
+                                    Lahore Airport 15 minutes by car<br>
+                                    Gulberg center 20 minutes by car
+                                </p>
+                                <a href="https://www.google.com/maps/search/176+Y-Block,+DHA+Phase3,+Lahore,+Pakistan/@31.4722224,74.3767664,21z"
+                                    class="more_txt fade_y on" target="_blank">
+                                    <span class="underline"><strong> Google Map</strong></span></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </main>
-        </div>
-    </section>
+                </main>
+            </div>
+        </section>
+    </div>
 </template>
 <script>
-import PageHeader from '../views/PageHeader.vue';
+    import PageHeader from '../views/PageHeader.vue';
     export default {
-        components:{PageHeader},
+        components: {
+            PageHeader
+        },
         mounted() {
+            $("[data-fancybox]").fancybox({
+                selector: ".mix:visible a",
+                loop: true,
+                hash: true,
+                transitionEffect: "slide",
+                clickContent: function (current, event) {
+                    return current.type === "image" ? "next" : false;
+                },
+            });
             var swiper = new Swiper(".mySwiper-main", {
                 // slidesPerView: 2.5,
                 spaceBetween: 50,
@@ -144,6 +218,7 @@ import PageHeader from '../views/PageHeader.vue';
     };
 </script>
 <style>
+
     .slider-title .office-button-next::after {
         content: " " !important;
     }
@@ -162,7 +237,7 @@ import PageHeader from '../views/PageHeader.vue';
     }
 
     .lead_area {
-        padding: 15px 10% 250px;
+        padding: 110px 0px 80px;
     }
 
     .lead_area .lead_inner {
@@ -172,11 +247,10 @@ import PageHeader from '../views/PageHeader.vue';
 
     .lead_area .lead_inner .lead_ttl {
         width: 50%;
-        font-size: 26px;
+        font-size: 25px;
         letter-spacing: 0.16px;
         line-height: 1.4;
-        font-family: 'Noto Sans JP', sans-serif;
-        font-weight: 700;
+
     }
 
     .lead_area .lead_inner .lead_ttl span {
@@ -192,7 +266,6 @@ import PageHeader from '../views/PageHeader.vue';
         width: 50%;
         color: #000;
         font-size: 16px;
-        letter-spacing: 0.06em;
         line-height: 32.2px;
     }
 
@@ -255,7 +328,7 @@ import PageHeader from '../views/PageHeader.vue';
 
     .access--index {
         background-color: #fff;
-        padding: 100px 10%;
+        padding: 80px 0px;
     }
 
     .access--index .box {
@@ -303,7 +376,7 @@ import PageHeader from '../views/PageHeader.vue';
     }
 
     .access--index .box .text_area p.station {
-        margin-bottom: 40px;
+        margin-bottom: 20px;
         margin-top: 20px;
     }
 
@@ -319,7 +392,7 @@ import PageHeader from '../views/PageHeader.vue';
 
     .mv_textarea .entxt {
         display: block;
-        font-size: 70px;
+        font-size: 70px !important;
         letter-spacing: .1em;
         text-transform: uppercase;
     }
@@ -332,7 +405,7 @@ import PageHeader from '../views/PageHeader.vue';
 
     .content-title {
         display: block;
-        font-size: 32px;
+        font-size: 42px;
         text-transform: uppercase;
     }
 
@@ -364,7 +437,11 @@ import PageHeader from '../views/PageHeader.vue';
         font-weight: 600;
         font-family: DIN-Bold;
     }
-
+    .office-section figure.image img {
+   /* aspect-ratio: 15/9; */
+   height: 290px;
+   border-radius: 5px;
+  }
     @media screen and (max-width: 896px) {
         .lead_area {
             padding: 80px 5%;
@@ -422,8 +499,11 @@ import PageHeader from '../views/PageHeader.vue';
     }
 
     @media screen and (max-width:768px) {
+        .office-section{
+            padding: 0px;
+        }
         .mv_textarea .entxt {
-            font-size: 40px;
+            font-size: 40px !important;
         }
 
         .jptxt {

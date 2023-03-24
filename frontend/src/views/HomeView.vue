@@ -273,7 +273,7 @@
                     </div>
                   </div>
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-two" />
+                  <input type="radio" name="tabs" id="tab-two"/>
                   <label for="tab-two" class="tab-btn theme-btn btn-style-one">
                     <i class="btn-curve"></i>
                     <span class="btn-title">Our Vision</span>
@@ -379,7 +379,8 @@
                     Our Japanese-led team established IDENBRID in Pakistan in
                     January 2020, and ever since, we have been striving to
                     achieve our objective of becoming the world's most essential
-                    IT company operating from Pakistan.
+                    IT company operating from Pakistan <br>
+                     <router-link to="/ceomessage">Read more &rarr;</router-link>
                   </p>
                 </div>
               </div>
@@ -927,8 +928,7 @@
   .agency-tabs label {
     order: 1;
     display: block;
-    padding: 4px 0px;
-    margin-right: 0.2rem;
+    margin-right: 0.8rem;
     cursor: pointer;
     background: #f4f5f8;
     font-weight: 500;

@@ -119,7 +119,10 @@
                <div class="agency-tabs">
                 <!--Tab-->
                 <input type="radio" name="tabs" id="tab-one" checked="checked">
-                <label for="tab-one" class="tab-btn">Our Mission</label>
+                <label for="tab-one" class="tab-btn theme-btn btn-style-one">
+                    <i class="btn-curve"></i>
+                    <span class="btn-title">Our Mission</span>
+                  </label>
                 <div id="tab-one" class="tab">
                   <div class="active-tab">
                     <div class="content">
@@ -150,8 +153,11 @@
                   </div>
                 </div>
                 <!--Tab-->
-                <input type="radio" name="tabs" id="tab-two" checked="checked">
-                <label for="tab-two" class="tab-btn">Our Vision</label>
+                <input type="radio" name="tabs" id="tab-two">
+                <label for="tab-two" class="tab-btn theme-btn btn-style-one">
+                    <i class="btn-curve"></i>
+                    <span class="btn-title">Our Vision</span>
+                  </label>
                 <div class="tab">
                   <div class="active-tab">
                     <div class="content">
@@ -183,8 +189,10 @@
                   </div>
                 </div>
                 <!--Tab-->
-                <input type="radio" name="tabs" id="tab-three" checked="checked">
-                <label for="tab-three" class="tab-btn">Our History</label>
+                <input type="radio" name="tabs" id="tab-three">
+                <label for="tab-three" class="tab-btn theme-btn btn-style-one">
+                    <i class="btn-curve"></i><span class="btn-title">Our History</span>
+                  </label>
                 <div class="tab">
                   <div class="active-tab">
                     <div class="content">
@@ -514,8 +522,7 @@ z-index: 999;
   .agency-tabs label {
     order: 1;
     display: block;
-    padding: 4px 31px;
-    margin-right: 0.2rem;
+    margin-right: 0.8rem;
     cursor: pointer;
     background: #F4F5F8;
     font-weight: 500;
@@ -549,8 +556,8 @@ z-index: 999;
 
   .agency-tabs input[type="radio"]:checked+label {
     background: var(--thm-base);
-    color: #333;
-    border:1px solid #333;
+    color: #fff;
+    border:1px solid var(--thm-base);
   }
 
   .agency-tabs input[type="radio"]:checked+label+.tab {

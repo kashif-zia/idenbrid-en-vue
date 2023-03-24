@@ -20,17 +20,17 @@
                   </div>
                   <ul class="social-links clearfix">
                     <li>
-                      <a href="https://www.facebook.com/idenbrid/"><span class="fab fa-facebook-square"></span></a>
+                      <a href="https://www.facebook.com/idenbrid/" target="_blank"><span class="fab fa-facebook-square"></span></a>
                     </li>
                     <li>
-                      <a href="https://twitter.com/idenbridinc"><span class="fab fa-twitter"></span></a>
+                      <a href="https://twitter.com/idenbridinc" target="_blank"><span class="fab fa-twitter"></span></a>
                     </li>
                     <li>
-                      <a href="https://www.youtube.com/channel/UC5ENsxgAQIqVfBIMy-Fp-0w"><span
+                      <a href="https://www.youtube.com/channel/UC5ENsxgAQIqVfBIMy-Fp-0w" target="_blank"><span
                           class="fab fa-youtube"></span></a>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com/company/idenbrid?original_referer=https%3A%2F%2Fidenbrid.jp%2F">
+                      <a href="https://www.linkedin.com/company/idenbrid?original_referer=https%3A%2F%2Fidenbrid.jp%2F" target="_blank">
                         <span class="fab fa-linkedin"></span>
                       </a>
                     </li>
@@ -90,10 +90,10 @@
                   <ul class="contact-info">
                     <li class="address">
                       <span class="icon flaticon-pin-1"></span> Basement 1 Floor
-                      176, DHA Y-block <br />Lahore, Pakistan
+                      176 Commercial, DHA Y-block Lahore Pakistan
                     </li>
                     <li>
-                      <span class="icon flaticon-call"></span><a href="tel:0306 4041221">0306 4041221</a>
+                      <span class="icon flaticon-call"></span><a href="tel:0306 4041221">+92 306 4041221</a>
                     </li>
                     <li>
                       <span class="icon flaticon-email-2"></span><a
@@ -137,12 +137,12 @@
                 </div>
                 <p class="btn-wide__text">Company LINE ID</p>
               </a>
-              <a href="mailto:contactusjp@idenbrid.com" target="_blank" class="btn-wide btn-wide_call">
+              <a href="mailto:contactusen@idenbrid.com" target="_blank" class="btn-wide btn-wide_call">
                 <div class="btn-wide__imgs">
                   <img src="/images/gallery/Mail-Black.png " alt="img" loading="lazy" class="btn-wide__img" />
                   <img src="/images/gallery/Mail-White.png" alt="img" loading="lazy" class="btn-wide__img" />
                 </div>
-                <p class="btn-wide__text">contactusjp@idenbrid.com</p>
+                <p class="btn-wide__text">contactusen@idenbrid.com</p>
               </a>
               <a href="skype:live:.cid.3145b74a3504693c?chat" target="_blank" class="btn-wide">
                 <div class="btn-wide__imgs">

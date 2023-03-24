@@ -17,7 +17,7 @@
                 <div class="formInputInner first_name">
                   <input v-model="first_name" type="text" name="880722_2258pi_880722_2258"
                     id="880722_2258pi_880722_2258"  class="text text form-control" size="30" maxlength="80"
-                    onchange="" onfocus="" placeholder="John Doe">
+                    onchange="" onfocus="" placeholder="Name">
                   <div id="error_for_880722_2258pi_880722_2258" style="display:none"></div>
                 </div>
               </div>
@@ -25,7 +25,7 @@
                 <div class="formInputInner  email ">
                   <input v-model="form.email" type="email" name="880722_2260pi_880722_2260"
                     id="880722_2260pi_880722_2260"  class="text text form-control" size="30" maxlength="255"
-                    onchange="" onfocus="" placeholder="sample@abc.com">
+                    onchange="" onfocus="" placeholder="Email">
                   <div id="error_for_880722_2260pi_880722_2260" style="display:none"></div>
                 </div>
               </div>
@@ -44,12 +44,12 @@
               </div>
               <div class="col-md-6">
                 <div class="formInputInner Inquiry_type ">
-                  <select v-model="form.inquiry_type" id="880722_2634pi_880722_2634" se class="select form-control"
+                  <select v-model="form.inquiry_type" id="880722_2634pi_880722_2634" class="select form-control"
                     onchange="">
                     <option  selected="selected" disabled value="">Please choose from below</option>
-                    <option value="13990">Looking for an IT development outsourcer</option>
+                    <option value="13991">Looking for an IT development outsourcer</option>
                     <option value="13992">I want a quote for a project</option>
-                    <option value="13994">want to do business</option>
+                    <option value="13994">Want to do business</option>
                     <option value="13996">About recruitment</option>
                     <option value="13996">Inquiries about coverage and company</option>
                   </select>
@@ -63,16 +63,16 @@
             
               <div class="col-md-6">
                 <div class="formInputInner Inquiry_type ">
-                  <select v-model="form.inquiry_type" id="880722_2634pi_880722_2634" se class="select form-control"
+                  <select v-model="form.inquiry_type" id="880722_2634pi_880722_2634" class="select form-control"
                     onchange="">
                     <option  selected="selected" disabled value="">How did you learn about our company?</option>
                     <option value="12990">Introduction</option>
                     <option value="12992">SNS</option>
-                    <option value="12994">blog</option>
-                    <option value="12996">from a sales representative</option>
-                    <option value="12996">email sent</option>
-                    <option value="12996">web search</option>
-                    <option value="12996">others</option>
+                    <option value="12994">Blog</option>
+                    <option value="12996">From a sales representative</option>
+                    <option value="12996">Email sent</option>
+                    <option value="12996">Web search</option>
+                    <option value="12996">Others</option>
                   </select>
                   <div id="error_for_880722_2634pi_880722_2634" style="display:none"></div>
                 </div>
