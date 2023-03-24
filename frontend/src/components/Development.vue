@@ -3,90 +3,100 @@
         <pageHeader title="SOFTWARE DEVELOPMENT" />
         <main>
             <section class="system-sec auto-container mt-5">
-                <h2 class="system-sec__tiile">IT受託開発・プロジェクトベース</h2>
+                <h2 class="system-sec__tiile">Client-focused application development</h2>
                 <p class="system-sec__text">
-                    当社はウェブ開発から事業を始めました会社となり、このウェブ領域における開発を得意としています。開発は基本的にスクラッチ開発と言われるゼロから全てを開発しまして、WordPressのようなCMSに頼ることなく、構築する技術を保有しています。
-                </p>
+                    Our approach at IDENBRID is to develop apps based on the requirements of our clients and end users, rather than solely from an engineer's perspective.</p>
                 <ul class="system-sec__contents">
                     <li class="system-sec__list"><img src="/images/icons/document-creation.svg" alt=""
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">システム設計や書類作成も得意</h3>
+                        <h3 class="system-sec__list__title">one-stop development</h3>
                         <p class="system-sec__list__text">
-                            当社ではきちんとシステム・インフラ設計図を作ることができ、各詳細設計書類・テストケースも作成してきちんと検収まで行うので大手企業様からもご好評いただいております。</p>
+                            Our responsibilities include designing applications, UI/UX, and developing for both iOS and Android operating systems.
+                        </p>
                     </li>
                     <li class="system-sec__list"><img src="/images/icons/strong-customer.svg" alt=""
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">ITに詳しくないお客様に強い</h3>
+                        <h3 class="system-sec__list__title">Cross-platform development</h3>
                         <p class="system-sec__list__text">
-                            私たちのエンドクライアント企業様は社内にIT人材がおらず、当社を頼ってくださっていることも多くあります。当社はきちんとしたヒアリングからそれをシステムに落とし込むことを得意としています
-                        </p>
-                    </li>
-                    <li class="system-sec__list"><img src="/images/icons/correspondence-range.svg" alt=""
+                            Our primary emphasis is on hybrid front-end development frameworks like Flutter 
+                            and React Native, that have the ability to operate on both iOS and Android operating systems.</p> 
+                         </li>
+                    <li class="system-sec__list"><img src="/images/icons/native-development.svg" alt=""
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">対応範囲</h3>
+                        <h3 class="system-sec__list__title">Strong native development</h3>
                         <p class="system-sec__list__text">
-                            フルスクラッチ開発・マッチング・EC（売買システム）・ポータル・管理システム・ダッシュボード・コミュニケーションシステム・会員管理・予約管理・自動見積もりシステム・営業管理システムなど他多数
+                            In addition to hybrid development, we employ Swift and Java Kotlin for implementing native functionality.
                         </p>
                     </li>
                 </ul>
             </section>
             <section class="system-sec auto-container">
-                <h2 class="system-sec__tiile">当社がご提供できる技術やソルーション</h2>
+                <h2 class="system-sec__tiile">Technologies and solutions we can offer</h2>
                 <p class="system-sec__text">
-                    当社ではCtoC系ウェブサービスやSaaS開発また業務管理システムまで幅広く開発に対応しています。どのようなサービスを私たちが提供可能かをご説明させて頂きます。</p>
+                    Identifying the most suitable technology for app development can be challenging if you're not an engineer. 
+                    Therefore, we offer straightforward recommendations that are easy to comprehend.
+                </p>
                 <ul class="system-sec__contents">
                     <li class="system-sec__list"><img src="/images/icons/one-stop-development.svg" alt=""
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">ワンストップ開発</h3>
+                        <h3 class="system-sec__list__title">Application Development Language</h3>
                         <p class="system-sec__list__text">
-                            当社のウェブ開発では設計から要件定義そしてデザインから開発またテストまで一社完結で開発をシステムフローを組んでいます。</p>
+                            Cross-platform development: Flutter / React Native Native Native development: Swift / Java Kotlin.</p>
                     </li>
                     <li class="system-sec__list"><img src="/images/icons/development-language-loud.svg" alt=""
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">開発言語・クラウド</h3>
+                        <h3 class="system-sec__list__title">App Design</h3>
                         <p class="system-sec__list__text">
-                            開発言語はPHP/LaravelやNode.js、Python/djangoなどモダンそして広く一般的な言語を使用しています。またインフラはAWS、GCP、Azureなどのクラウド環境にも対応しております。
+                            Designing apps demands a more comprehensive approach, with numerous pages to design, and each component 
+                            requiring unique reproduction across operating systems. Consequently, a specialized app designer will be assigned to the project.
                         </p>
                     </li>
                     <li class="system-sec__list"><img src="/images/icons/pwa.svg" alt=""
                             class="system-sec__list__thumbnail">
-                        <h3 class="system-sec__list__title">PWA</h3>
+                        <h3 class="system-sec__list__title">Strong screening process</h3>
                         <p class="system-sec__list__text">
-                            アプリのような利便性を追求されたいがウェブベースにて開発をされたいお客様へPWAを勧めており、お客様のユーザーペインの解消のために視野の広い提案を行なっています。</p>
+                            Apps can face rejection due to several factors like payment implementation and privacy description. Hence, leveraging our past experience,
+                             we offer our clients advanced explanations to help them mitigate even the slightest risk well before the implementation stage.
+                        </p>
                     </li>
                 </ul>
             </section>
             <section class="flow">
                 <div class="auto-container">
-                    <h3 class="content-title content-title_flow">ウェブシステム開発におけるフロー</h3>
+                    <h3 class="content-title content-title_flow">Flow in Web System Development</h3>
                     <p class="content-text content-subtitle_flow">
-                        "当社はワンストップ開発を進めており、お問い合わせ頂いてからウェブやアプリのローンチまで
-                        一貫してシームレスにお手伝いさせて頂きます。一社完結なので様々な方とお話する必要もなくお客様の負担軽減が見込めます。"</p>
+                        We are your one-stop destination for web or app development services, offering seamless assistance right from the moment you reach out to us until the launch of your product. 
+                        As a one-stop shop, we eliminate the need for you to interact with multiple vendors, thereby reducing the burden on our clients.</p>
                 </div>
                 <div class="flow__scroll auto-container soft-development">
                     <ul class="flow__contents">
                         <li class="flow__list flow__list_border"><img src="/images/icons/Team-rafiki.svg" alt=""
                                 class="flow__list__thumbnail">
-                            <h4 class="flow__list__title">ヒヤリング・お見積もり</h4>
-                            <p class="flow__list__text">お問い合わせを頂き、開発されたい内容の書類RFPや内容をもとにヒアリングそして予算に合わせてお見積もりを作成します。</p>
+                            <h4 class="flow__list__title">Hearing and estimate</h4>
+                            <p class="flow__list__text">
+                                Upon receiving an inquiry, we will evaluate the Request for Proposal (RFP) 
+                                and project requirements to prepare a detailed estimate and budget for the development process.</p>
                         </li>
                         <li class="flow__list flow__list_border"><img
                                 src="/images/icons/New-team-members-rafiki.svg" alt=""
                                 class="flow__list__thumbnail">
-                            <h4 class="flow__list__title">要件定義・基本設計</h4>
-                            <p class="flow__list__text">当社のフォーマットに合わせて、仕様を整理しどのような開発を進めるのかを定義します。スケジュールの管理などもこちらで行います。
+                            <h4 class="flow__list__title">Requirement definition and basic design</h4>
+                            <p class="flow__list__text">We structure the project specifications and determine the development process based on our established format, while also overseeing the project schedule.
                             </p>
                         </li>
                         <li class="flow__list flow__list_border"><img src="/images/icons/Open-source-bro.svg" alt=""
                                 class="flow__list__thumbnail">
-                            <h4 class="flow__list__title">UIUXデザイン・開発</h4>
+                            <h4 class="flow__list__title">UIUX design and development</h4>
                             <p class="flow__list__text">
-                                画面遷移図からデザインを起こし、詳細設計書に基づきシステム・アプリ・インフラ開発を進めて参ります。</p>
+                                Based on detailed design documents, we will proceed with system, application, and infrastructure development, creating designs from screen transition diagrams.
+                            </p>
                         </li>
                         <li class="flow__list"><img src="/images/icons/test-amico.svg" alt=""
                                 class="flow__list__thumbnail">
-                            <h4 class="flow__list__title">テスト・納品</h4>
-                            <p class="flow__list__text">テストケースに基づき検収を行いお客様にもご確認頂き、アプリの審査やサーバーへのディプロイ作業を進めます。
+                            <h4 class="flow__list__title">Testing and delivery</h4>
+                            <p class="flow__list__text">
+                                Once we have conducted tests on the application using the prescribed test cases, we will ask the customer to verify the results. 
+                                Once the customer has confirmed the results, we will move on to reviewing the application and deploying it to the server.
                             </p>
                         </li>
                     </ul>
@@ -94,21 +104,21 @@
             </section>
             <section class="exp-menu-list">
                 <div class="menu-box">
-                    <div class="item"><a href="/development/" aria-current="page"
-                            class="text router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-pc-on-desk-80.png">ウェブシステム開発
+                    <div class="item"><a href="/development/" class="text"><img
+                                src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
                         </a></div>
-                    <div class="item"><a href="/mobileapp/"
-                            class="text router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-iphone-14-pro-80.png">スマホアプリ開発
+                    <div class="item"><a href="/mobileapp/" aria-current="page"
+                            class="text router-link-exact-active router-link-active router-link-exact-active router-link-active"><img
+                                src="/images/icons/icons8-iphone-14-pro-80.png">Smartphone application development
                         </a></div>
                     <div class="item"><a href="/uiuxdesign/" class="text"><img
-                                src="/images/icons/icons8-illustrator-80.png">UIUXデザイン制作
+                                src="/images/icons/icons8-illustrator-80.png">UIUX design production
                         </a></div>
                     <div class="item"><a href="/webitconsulting/" class="text"><img
-                                src="/images/icons/icons8-flight-trip-64.png">オフショア開発</a></div>
+                                src="/images/icons/icons8-flight-trip-64.png">offshore development</a></div>
                     <div class="item"><a href="/engineerstyle/" class="text"><img
-                                src="/images/icons/color-icon-logo.png">SESエンジニアスタイル</a></div>
+                                src="/images/icons/Color Icon Logo.png">SES Engineer Style</a>
+                    </div>
                 </div>
             </section>
         </main>
