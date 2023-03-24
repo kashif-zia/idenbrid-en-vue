@@ -5,16 +5,15 @@
             <div class="auto-container">
                 <div class="align-items-center justify-content-center row">
                     <div class="col-md-6">
-                        <h1 class="main-banner-heading-55">Careers at Idenbrid</h1>
+                        <h1 class="main-banner-heading-55">Careers at IDENBRID</h1>
                         <div>
                             <h4 class="font-weight-normal pb-1">
                                 Are you passionate about building your career with opportunities
                                 to learn and lead?
                             </h4>
                             <p>
-                                Join us at Idenbrid - a multinational software development
-                                company based in Canada, with regional offices in JAPAN and
-                                Pakistan.
+                                Join us at IDENBRID - a multinational software development
+                                company based in Pakistan and Japan.
                             </p>
                         </div>
                     </div>
@@ -31,11 +30,8 @@
                   object-fit: cover;
                 " decoding="async" src="/images/background/career.webp" alt="img" />
                             <picture>
-                                <source type="image/webp" srcset="
-                    /images/background/career.webp 155w,
-                    /images/background/career.webp 310w,
-                    /images/background/career.webp 620w
-                  " sizes="(min-width: 620px) 620px, 100vw" />
+                                <source type="image/webp" srcset="/images/background/career.webp 155w,/images/background/career.webp 310w,/images/background/career.webp 620w" 
+                                        sizes="(min-width: 620px) 620px, 100vw" />
                                 <img width="620" height="597" data-main-image="" style="object-fit: cover; opacity: 1"
                                     sizes="(min-width: 620px) 620px, 100vw" decoding="async" loading="lazy"
                                     src="/images/background/career.webp" srcset="/images/background/career.webp"
@@ -43,15 +39,14 @@
                             </picture>
                             <noscript>
                                 <picture>
-                                    <source type="image/webp" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/49d87/career-at-iz.webp 155w,
-  /static/0717d5b39a43ab580b2ba5e213b79f77/fd342/career-at-iz.webp 310w,
-  /static/0717d5b39a43ab580b2ba5e213b79f77/c8c8c/career-at-iz.webp 620w" sizes="(min-width: 620px) 620px, 100vw" />
+                                    <source type="image/webp" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/49d87/career-at-iz.webp 155w,/static/0717d5b39a43ab580b2ba5e213b79f77/fd342/career-at-iz.webp 310w,/static/0717d5b39a43ab580b2ba5e213b79f77/c8c8c/career-at-iz.webp 620w" 
+                                            sizes="(min-width: 620px) 620px, 100vw" />
                                     <img width="620" height="597" data-main-image=""
                                         style="object-fit: cover; opacity: 0" sizes="(min-width: 620px) 620px, 100vw"
                                         decoding="async" loading="lazy"
-                                        src="/static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/e74c9/career-at-iz.svg 155w,
-  /static/0717d5b39a43ab580b2ba5e213b79f77/4a413/career-at-iz.svg 310w,
-  /static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg 620w" alt="careers at Idenbrid" /></picture>
+                                        src="/static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg" srcSet="/static/0717d5b39a43ab580b2ba5e213b79f77/e74c9/career-at-iz.svg 155w,/static/0717d5b39a43ab580b2ba5e213b79f77/4a413/career-at-iz.svg 310w,/static/0717d5b39a43ab580b2ba5e213b79f77/17aa3/career-at-iz.svg 620w" 
+                                        alt="careers at Idenbrid" />
+                                </picture>
                             </noscript>
                         </div>
                     </div>
@@ -67,28 +62,6 @@
                                 Open <span class="text-primary">Vacancies</span>
                             </h2>
                         </div>
-                        <!-- <div class="pt-3 pt-md=0 col-lg-4 col-12">
-                                <div class=" css-2b097c-auto-container"><span aria-live="polite" aria-atomic="false"
-                                        aria-relevant="additions text" class="css-7pg0cj-a11yText"></span>
-                                    <div class=" css-1u8vccw-control">
-                                        <div class=" css-1hwfws3">
-                                            <div class=" css-1uccc91-singleValue">Select Country</div><input
-                                                id="react-select-8-input" readonly="" tabindex="0"
-                                                aria-autocomplete="list" class="css-62g3xt-dummyInput" value="">
-                                        </div>
-                                        <div class=" css-1wy0on6">
-                                            <div class=" css-xzu46z-indicatorauto-Container" aria-hidden="true"><svg
-                                                    height="20" width="20" viewBox="0 0 20 20" aria-hidden="true"
-                                                    focusable="false" class="css-8mmkcg">
-                                                    <path
-                                                        d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
-                                                    </path>
-                                                </svg></div>
-                                        </div>
-                                    </div>
-                                    <input name="officeLocation" type="hidden" value="select country">
-                                </div>
-                            </div> -->
                     </div>
                 </div>
                 <div class="Vacancies-module--my_custom_scrollbar--38c7d">
@@ -980,6 +953,7 @@
         height: 100%;
         position: static;
         opacity: 1 !important;
+        /* transition: 0.3s linear all; */
     }
 
     .ben-1:hover .default,

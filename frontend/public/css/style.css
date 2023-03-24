@@ -184,9 +184,9 @@ button {
 p {
   line-height: 1.5em;
   margin: 0 0 20px;
-  font-size: 18px !important;
-  font-weight: 400 !important;
-    color: #333 !important;
+  font-size: 18px ;
+  font-weight: 400;
+    color: #333 ;
 }
 
 .text {
@@ -5442,7 +5442,7 @@ font-size: 30px;
   width: 100%;
   line-height: 1.4em;
   padding: 20px 60px 20px 25px;
-  height: 70px;
+  height: 50px;
   display: block;
   font-size: 18px;
   background: #1c1e22;
@@ -5471,9 +5471,9 @@ font-size: 30px;
 .newsletter-form .form-group .theme-btn {
   position: absolute;
   right: 12px;
-  top: 12px;
-  width: 44px;
-  height: 44px;
+  top: 10px;
+  width: 31px;
+  height: 32px;
   background: var(--thm-base);
   color: var(--thm-black);
   border-radius: 50%;
@@ -6167,6 +6167,7 @@ font-size: 30px;
   color: #fff;
   text-transform: uppercase;
   font-size: 60px;
+  font-weight: 700;
 }
 .why-us-section .left-col .vid-link .ripple:before {
   -webkit-animation-delay: 0.9s;
