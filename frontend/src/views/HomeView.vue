@@ -6,7 +6,7 @@
           <div class="hours">
             <ul class="clearfix">
               <li><span>mon - fri</span></li>
-              <li><span>9am - 6pm</span></li>
+              <li><span>10am - 6pm</span></li>
             </ul>
           </div>
           <div class="social-links">
