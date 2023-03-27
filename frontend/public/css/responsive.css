@@ -27,6 +27,9 @@
 }
 
 @media only screen and (max-width: 1499px){
+	.banner-carousel .content-box .inner{
+		padding: 0px 45px;
+	}
 	.main-header .other-links .search-btn{
 		padding-right: 30px;
 		margin-right: 30px;
@@ -90,6 +93,7 @@
 }
 
 @media only screen and (max-width: 1199px){
+	
 	.main-header.fixed-header .header-upper .logo-box {
 		padding-top: 20px;
 		padding-bottom: 20px;
