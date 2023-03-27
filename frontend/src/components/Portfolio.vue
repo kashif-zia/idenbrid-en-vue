@@ -128,13 +128,13 @@
                 </li>
                 <!-- Gallery Item -->
                 <li class="gallery-item mix webapplication col-lg-4 col-md-6 col-sm-12">
-                  <a title="click to zoom-in " href="/images/gallery/works_01.png" itemprop="contentUrl "
+                  <a title="click to zoom-in " href="/images/gallery/works_01.webp" itemprop="contentUrl "
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_01.png" alt="image" />
+                        <img src="/images/gallery/works_01.webp" alt="image" />
                       </figure>
-                      <a href="/images/gallery/works_01.png" data-fancybox="gallery"
+                      <a href="/images/gallery/works_01.webp" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
                       <div class="cap-box">
                         <div class="cap-inner">

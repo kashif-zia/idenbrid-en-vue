@@ -96,7 +96,7 @@
   </section>
   <section class="parallax-section">
     <div id="particles-js"></div>
-    <div class="image-layer" style="background-image: url(/images/background/team.jpg);"></div>
+    <div class="image-layer" style="background-image: url(/images/background/team.webp);"></div>
     <div class="auto-container">
       <div class="content-box">
         <div class="icon-box"><span class="flaticon-app-development"></span></div>

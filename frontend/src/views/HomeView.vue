@@ -29,7 +29,7 @@
         <carousel :items-to-show="1" :snap-align="center">
           <slide v-for="slide in 10" :key="slide">
             <div class="slide-item">
-              <div class="image-layer" style="background-image: url(/images/main-slider/team.jpg)">
+              <div class="image-layer" style="background-image: url(/images/main-slider/team.webp)">
                 <!-- <video src="/videos/idenbridopeningvideo.mp4" muted autoplay></video> -->
               </div>
               <div class="left-top-line"></div>
@@ -168,7 +168,7 @@
                 <img src="/images/resource/featured-image-1.jpeg" alt="image" />
               </div>
               <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                <img src="/images/resource/featured-image-2.jpeg" alt="image" />
+                <img src="/images/resource/featured-image-2.webp" alt="image" />
               </div>
             </div>
           </div>
@@ -561,13 +561,13 @@
                 </li>
                 <!-- Gallery Item -->
                 <li class="gallery-item mix webapplication col-lg-4 col-md-6 col-sm-12">
-                  <a title="click to zoom-in " href="/images/gallery/works_01.png" itemprop="contentUrl "
+                  <a title="click to zoom-in " href="/images/gallery/works_01.webp" itemprop="contentUrl "
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_01.png" alt="image" />
+                        <img src="/images/gallery/works_01.webp" alt="image" />
                       </figure>
-                      <a href="/images/gallery/works_01.png" data-fancybox="gallery"
+                      <a href="/images/gallery/works_01.webp" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
                       <div class="cap-box">
                         <div class="cap-inner">
@@ -613,7 +613,7 @@
     </section>
     <section class="parallax-section">
       <div id="particles-js"></div>
-      <div class="image-layer" style="background-image: url(/images/background/team.jpg)"></div>
+      <div class="image-layer" style="background-image: url(/images/background/team.webp)"></div>
       <div class="auto-container">
         <div class="content-box">
           <div class="icon-box">
