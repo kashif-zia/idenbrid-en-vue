@@ -9,7 +9,7 @@
           <router-link to = "/company">
           <div class="inner-box">
             <div class="image-box">
-              <img src="/images/resource/Company.png" alt=""></div>
+              <img src="/images/resource/Company.png" alt="image"></div>
             <div class="cap-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
               <div class="cap-inner">
                 <h5>COMPANY / Company profile <br>
@@ -26,7 +26,7 @@
         <div class="discover-block col-lg-4 col-md-6 col-sm-12">
           <router-link to="/ceomessage">
           <div class="inner-box">
-            <div class="image-box"><img src="/images/resource/CEO-Mesasge.png" alt=""></div>
+            <div class="image-box"><img src="/images/resource/CEO-Mesasge.png" alt="image"></div>
             <div class="cap-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
               <div class="cap-inner">
                 <h5>CEO MESSAGE <br> You can see the message from IDENBRID CEO Nakamura.</h5>
@@ -44,7 +44,7 @@
         <div class="discover-block col-lg-4 col-md-6 col-sm-12">
           <router-link to="/team">
           <div class="inner-box">
-            <div class="image-box"><img src="/images/resource/team.png" alt=""></div>
+            <div class="image-box"><img src="/images/resource/team.png" alt="image"></div>
             <div class="cap-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
               <div class="cap-inner">
                 <h5>TEAM / team <br>
@@ -64,7 +64,7 @@
           <router-link to="/office">
           <div class="inner-box">
             <div class="image-box">
-              <img src="/images/resource/officeandaccess.png" alt="">
+              <img src="/images/resource/officeandaccess.png" alt="image">
             </div>
             <div class="cap-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
               <div class="cap-inner">
@@ -80,7 +80,7 @@
         <div class="discover-block col-lg-4 col-md-6 col-sm-12">
           <router-link to="/digital-assets">
           <div class="inner-box">
-            <div class="image-box"><img src="/images/resource/digitalasset.png" alt=""></div>
+            <div class="image-box"><img src="/images/resource/digitalasset.png" alt="image"></div>
             <div class="cap-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
               <div class="cap-inner">
                 <h5>DIGITAL ASSETS <br>
@@ -234,7 +234,7 @@
             <div class="text">“Become the most needed IT company in the world from Pakistan”
               Why did we establish an IT company in Pakistan?</div>
             <div class="featured-block-two clearfix">
-              <div class="image"><img src="/images/resource/CEO-Mesasge.png" alt=""></div>
+              <div class="image"><img src="/images/resource/CEO-Mesasge.png" alt="image"></div>
               <div class="text">
                 <!-- <ul>
                   <li>Nsectetur cing elit.</li>
@@ -264,7 +264,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
             <div class="image-box">
-              <router-link to="/about"><img src="/images/resource/team/ahmad.png" alt="img"></router-link>
+              <router-link to="/about"><img src="/images/resource/team/ahmad.png" alt="image"></router-link>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -283,7 +283,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
             <div class="image-box">
-              <router-link to="/about"><img src="/images/resource/team/samad.jpg" alt=""></router-link>
+              <router-link to="/about"><img src="/images/resource/team/samad.jpg" alt="image"></router-link>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -302,7 +302,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
             <div class="image-box">
-              <router-link to="/about"><img src="/images/resource/team/me.jpg" alt=""></router-link>
+              <router-link to="/about"><img src="/images/resource/team/me.jpg" alt="image"></router-link>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>

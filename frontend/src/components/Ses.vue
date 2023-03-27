@@ -129,28 +129,28 @@
                 <div class="menu-box">
                     <div class="item">
                         <span  class="text">
-                            <img src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
+                            <img src="/images/icons/icons8-pc-on-desk-80.png" alt="image">Web System Development
                         </span>
                     </div>
                     <div class="item">
                         <span aria-current="page"
                             class="text router-link-exact-active router-link-active router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-iphone-14-pro-80.png">Smartphone application development
+                                src="/images/icons/icons8-iphone-14-pro-80.png" alt="image">Smartphone application development
                     </span>
                     </div>
                     <div class="item">
                         <span class="text">
-                            <img src="/images/icons/icons8-illustrator-80.png">UIUX design production
+                            <img src="/images/icons/icons8-illustrator-80.png" alt="image">UIUX design production
                         </span>
                     </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/icons8-flight-trip-64.png">offshore development</span>
+                                src="/images/icons/icons8-flight-trip-64.png" alt="image">offshore development</span>
                             
                         </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/color-icon-logo.png">SES Engineer Style
+                                src="/images/icons/color-icon-logo.png" alt="image">SES Engineer Style
                         </span>
                     </div>
                 </div>

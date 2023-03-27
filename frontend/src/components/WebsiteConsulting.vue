@@ -7,14 +7,14 @@
                 <p class="system-sec__text">Our company also maintains a development base in Pakistan, where we employ a sizable team of experienced engineers. This allows us to not only enhance our recruitment efforts, but also provide cost-effective solutions to our clients.
                 </p>
                 <ul class="system-sec__contents">
-                    <li class="system-sec__list"><img src="/images/icons/Japanese.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/Japanese.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Japanese Communication</h3>
                         <p class="system-sec__list__text">
                             We assign a Japanese bridge SE to oversee the project and utilize chat tools for asynchronous communication in Japanese to convey instructions and other information.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/cost.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/cost.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Cost performance</h3>
                         <p class="system-sec__list__text">
@@ -22,7 +22,7 @@
                             our focus is not only on offering low costs, but also on providing high-quality work and exceeding your expectations.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/team-recruitment.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/team-recruitment.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Team Recruitment</h3>
                         <p class="system-sec__list__text">
@@ -34,20 +34,20 @@
                 <h2 class="system-sec__tiile">Technologies and solutions we can offer</h2>
                 <p class="system-sec__text">We continuously leverage the latest technologies available in the market to develop cutting-edge web and mobile applications.</p>
                 <ul class="system-sec__contents">
-                    <li class="system-sec__list"><img src="/images/icons/frontend.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/frontend.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Front-end</h3>
                         <p class="system-sec__list__text">
                             React.js / Vue.js / Typescript / HTML / CSS / Bootstrap / JavaScript
                             We also have engineers on staff who can handle CMS such as WordPress, etc.</p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/back-end.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/back-end.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Backend API</h3>
                         <p class="system-sec__list__text">We are developing functions mainly in PHP Laravel and Node.js
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/PM.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/PM.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">PM</h3>
                         <p class="system-sec__list__text">
@@ -65,26 +65,26 @@
                 </div>
                 <div class="flow__scroll auto-container web-consulting">
                     <ul class="flow__contents">
-                        <li class="flow__list flow__list_border"><img src="/images/icons/face-bro.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/face-bro.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Hearing and estimate</h4>
                             <p class="flow__list__text">
                                 We will discuss with you what kind of development you are looking for, what issues you are currently facing, and how our services can improve them, and prepare a quotation.</p>
                         </li>
-                        <li class="flow__list flow__list_border"><img src="/images/icons/deal-amico.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/deal-amico.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Contracts & Kickoff</h4>
                             <p class="flow__list__text">
                                 Resources will be allocated and preparations for development will be made based 
                                 on the meeting details. Additionally, a kick-off meeting will be held to finalize the work process.</p>
                         </li>
-                        <li class="flow__list flow__list_border"><img src="/images/icons/source-amico.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/source-amico.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Development</h4>
                             <p class="flow__list__text">
                                 We will actually develop the software. We will work the specified hours based on the instructions, and submit a daily operation report.</p>
                         </li>
-                        <li class="flow__list"><img src="/images/icons/management-amico.svg" alt=""
+                        <li class="flow__list"><img src="/images/icons/management-amico.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Management</h4>
                             <p class="flow__list__text">
@@ -98,28 +98,28 @@
                 <div class="menu-box">
                     <div class="item">
                         <span  class="text">
-                            <img src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
+                            <img src="/images/icons/icons8-pc-on-desk-80.png" alt="image">Web System Development
                         </span>
                     </div>
                     <div class="item">
                         <span aria-current="page"
-                            class="text router-link-exact-active router-link-active router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-iphone-14-pro-80.png">Smartphone application development
+                            class="text router-link-exact-active router-link-active router-link-exact-active router-link-active">
+                            <img src="/images/icons/icons8-iphone-14-pro-80.png" alt="image">Smartphone application development
                     </span>
                     </div>
                     <div class="item">
                         <span class="text">
-                            <img src="/images/icons/icons8-illustrator-80.png">UIUX design production
+                            <img src="/images/icons/icons8-illustrator-80.png" alt="image">UIUX design production
                         </span>
                     </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/icons8-flight-trip-64.png">offshore development</span>
+                                src="/images/icons/icons8-flight-trip-64.png" alt="image">offshore development</span>
                             
                         </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/color-icon-logo.png">SES Engineer Style
+                                src="/images/icons/color-icon-logo.png" alt="image">SES Engineer Style
                         </span>
                     </div>
                 </div>

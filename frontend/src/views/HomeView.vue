@@ -165,10 +165,10 @@
           <div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <div class="inner">
               <div class="image-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <img src="/images/resource/featured-image-1.jpeg" alt="" />
+                <img src="/images/resource/featured-image-1.jpeg" alt="image" />
               </div>
               <div class="image-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                <img src="/images/resource/featured-image-2.jpeg" alt="" />
+                <img src="/images/resource/featured-image-2.jpeg" alt="image" />
               </div>
             </div>
           </div>
@@ -365,7 +365,7 @@
               </div>
               <div class="featured-block-two clearfix">
                 <div class="image">
-                  <img src="/images/resource/CEO-Mesasge.png" alt="" />
+                  <img src="/images/resource/CEO-Mesasge.png" alt="image" />
                 </div>
                 <div class="text">
                   <!-- <ul>
@@ -412,10 +412,10 @@
         </div>
         <div class="service-row my-5">
           <div class="service-col">
-            <img class="service-img" alt="" src="/images/ses.webp">
+            <img class="service-img" alt="service-image" src="/images/ses.webp">
           </div>
           <div class="service-col">
-            <h2 class="service_h2"><img src="/images/icons/SES.png" alt="Service-image"
+            <h2 class="service_h2"><img src="/images/icons/ses.png" alt="Service-image"
                 class="image-icon">SES: Engineer Style
             </h2>
             <p class="service-p">
@@ -469,7 +469,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_05.png" alt="" />
+                        <img src="/images/gallery/works_05.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_05.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -494,7 +494,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_03.png" alt="" />
+                        <img src="/images/gallery/works_03.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_03.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -517,7 +517,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_04.png" alt="" />
+                        <img src="/images/gallery/works_04.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_04.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -542,7 +542,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_06.png" alt="" />
+                        <img src="/images/gallery/works_06.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_06.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -565,7 +565,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_01.png" alt="" />
+                        <img src="/images/gallery/works_01.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_01.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -588,7 +588,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_02.png" alt="" />
+                        <img src="/images/gallery/works_02.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_02.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -642,7 +642,7 @@
                   <img :src="
                       'https://admin.idenbrid.com/storage/blog_images/' +
                       blog.image
-                    " alt="" />
+                    " alt="image" />
                 </router-link>
               </div>
               <div class="lower-box">

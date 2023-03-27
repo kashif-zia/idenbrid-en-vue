@@ -12,7 +12,7 @@
                 <div class="inner-box">
                   <div class="image-box">
                     <router-link :to="'/blog-detail/'+blog.id">
-                  <img :src="'https://admin.idenbrid.com/storage/blog_images/'+blog.image" alt="">
+                  <img :src="'https://admin.idenbrid.com/storage/blog_images/'+blog.image" alt="image">
                 </router-link>
                   </div>
                   <div class="lower-box">
@@ -58,7 +58,7 @@
                 <div class="comment-box">
                   <div class="comment">
                     <div class="author-thumb">
-                      <figure class="thumb"><img src="/images/resource/author-7.jpg" alt="">
+                      <figure class="thumb"><img src="/images/resource/author-7.jpg" alt="image">
                       </figure>
                     </div>
                     <div class="info">
@@ -79,7 +79,7 @@
                 <div class="comment-box">
                   <div class="comment">
                     <div class="author-thumb">
-                      <figure class="thumb"><img src="/images/resource/author-8.jpg" alt="">
+                      <figure class="thumb"><img src="/images/resource/author-8.jpg" alt="image">
                       </figure>
                     </div>
                     <div class="info">
@@ -159,7 +159,7 @@
                   </div>
                   <div class="post" v-for="latest in latest_blogs" :key="latest.id">
                     <figure class="post-thumb">
-                      <img :src="'https://admin.idenbrid.com/storage/blog_images/'+latest.image" alt="">
+                      <img :src="'https://admin.idenbrid.com/storage/blog_images/'+latest.image" alt="image">
                     </figure>
                     <h5 class="text">
                       <a :href="'/blog-detail/'+latest.id">{{ latest.title }}</a></h5>

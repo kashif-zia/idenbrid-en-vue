@@ -16,7 +16,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <router-link :to="'/blog-detail/'+blog.id">
-                                    <img :src="'https://admin.idenbrid.com/storage/blog_images/' + blog.image" alt="">
+                                    <img :src="'https://admin.idenbrid.com/storage/blog_images/' + blog.image" alt="image">
                                 </router-link>
                             </div>
                             <div class="lower-box">

@@ -39,7 +39,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_05.png" alt="" />
+                        <img src="/images/gallery/works_05.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_05.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -63,7 +63,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_03.png" alt="" />
+                        <img src="/images/gallery/works_03.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_03.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -86,7 +86,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_04.png" alt="" />
+                        <img src="/images/gallery/works_04.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_04.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -109,7 +109,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_06.png" alt="" />
+                        <img src="/images/gallery/works_06.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_06.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -132,7 +132,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_01.png" alt="" />
+                        <img src="/images/gallery/works_01.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_01.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>
@@ -155,7 +155,7 @@
                     data-size="1200x600 ">
                     <div class="inner-box">
                       <figure class="image">
-                        <img src="/images/gallery/works_02.png" alt="" />
+                        <img src="/images/gallery/works_02.png" alt="image" />
                       </figure>
                       <a href="/images/gallery/works_02.png" data-fancybox="gallery"
                         class="lightbox-image overlay-box"></a>

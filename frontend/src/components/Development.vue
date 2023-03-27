@@ -7,21 +7,21 @@
                 <p class="system-sec__text">
                     Our approach at IDENBRID is to develop apps based on the requirements of our clients and end users, rather than solely from an engineer's perspective.</p>
                 <ul class="system-sec__contents">
-                    <li class="system-sec__list"><img src="/images/icons/document-creation.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/document-creation.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">one-stop development</h3>
                         <p class="system-sec__list__text">
                             Our responsibilities include designing applications, UI/UX, and developing for both iOS and Android operating systems.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/strong-customer.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/strong-customer.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Cross-platform development</h3>
                         <p class="system-sec__list__text">
                             Our primary emphasis is on hybrid front-end development frameworks like Flutter 
                             and React Native, that have the ability to operate on both iOS and Android operating systems.</p> 
                          </li>
-                    <li class="system-sec__list"><img src="/images/icons/native-development.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/native-development.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Strong native development</h3>
                         <p class="system-sec__list__text">
@@ -37,13 +37,13 @@
                     Therefore, we offer straightforward recommendations that are easy to comprehend.
                 </p>
                 <ul class="system-sec__contents">
-                    <li class="system-sec__list"><img src="/images/icons/one-stop-development.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/one-stop-development.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Application Development Language</h3>
                         <p class="system-sec__list__text">
                             Cross-platform development: Flutter / React Native Native Native development: Swift / Java Kotlin.</p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/development-language-loud.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/development-language-loud.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">App Design</h3>
                         <p class="system-sec__list__text">
@@ -51,7 +51,7 @@
                             requiring unique reproduction across operating systems. Consequently, a specialized app designer will be assigned to the project.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/pwa.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/pwa.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Strong screening process</h3>
                         <p class="system-sec__list__text">
@@ -70,7 +70,7 @@
                 </div>
                 <div class="flow__scroll auto-container soft-development">
                     <ul class="flow__contents">
-                        <li class="flow__list flow__list_border"><img src="/images/icons/Team-rafiki.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/Team-rafiki.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Hearing and estimate</h4>
                             <p class="flow__list__text">
@@ -78,20 +78,20 @@
                                 and project requirements to prepare a detailed estimate and budget for the development process.</p>
                         </li>
                         <li class="flow__list flow__list_border"><img
-                                src="/images/icons/New-team-members-rafiki.svg" alt=""
+                                src="/images/icons/New-team-members-rafiki.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Requirement definition and basic design</h4>
                             <p class="flow__list__text">We structure the project specifications and determine the development process based on our established format, while also overseeing the project schedule.
                             </p>
                         </li>
-                        <li class="flow__list flow__list_border"><img src="/images/icons/Open-source-bro.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/Open-source-bro.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">UIUX design and development</h4>
                             <p class="flow__list__text">
                                 Based on detailed design documents, we will proceed with system, application, and infrastructure development, creating designs from screen transition diagrams.
                             </p>
                         </li>
-                        <li class="flow__list"><img src="/images/icons/test-amico.svg" alt=""
+                        <li class="flow__list"><img src="/images/icons/test-amico.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Testing and delivery</h4>
                             <p class="flow__list__text">
@@ -106,28 +106,28 @@
                 <div class="menu-box">
                     <div class="item">
                         <span  class="text">
-                            <img src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
+                            <img src="/images/icons/icons8-pc-on-desk-80.png" alt="image">Web System Development
                         </span>
                     </div>
                     <div class="item">
                         <span aria-current="page"
                             class="text router-link-exact-active router-link-active router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-iphone-14-pro-80.png">Smartphone application development
+                                src="/images/icons/icons8-iphone-14-pro-80.png" alt="image">Smartphone application development
                     </span>
                     </div>
                     <div class="item">
                         <span class="text">
-                            <img src="/images/icons/icons8-illustrator-80.png">UIUX design production
+                            <img src="/images/icons/icons8-illustrator-80.png" alt="image">UIUX design production
                         </span>
                     </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/icons8-flight-trip-64.png">offshore development</span>
+                                src="/images/icons/icons8-flight-trip-64.png" alt="image">offshore development</span>
                             
                         </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/color-icon-logo.png">SES Engineer Style
+                                src="/images/icons/color-icon-logo.png" alt="image">SES Engineer Style
                         </span>
                     </div>
                 </div>

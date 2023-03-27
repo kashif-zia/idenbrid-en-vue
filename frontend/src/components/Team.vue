@@ -8,7 +8,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/souga.jpeg" alt=""></a>
+              <a href="/about"><img src="/images/resource/souga.jpeg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -27,7 +27,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/aska.png" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/aska.png" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -46,7 +46,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/koji.png" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/koji.png" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -65,7 +65,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/dai.png" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/dai.png" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -84,7 +84,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/yuta.png" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/yuta.png" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -103,7 +103,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/ahmad.png" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/ahmad.png" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -121,7 +121,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/bushra.jpeg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/bushra.jpeg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -139,7 +139,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/samad.jpg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/samad.jpg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -157,7 +157,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/me.jpg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/me.jpg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -175,7 +175,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/hamza.jpeg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/hamza.jpeg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -193,7 +193,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/azeem.jpeg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/azeem.jpeg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -211,7 +211,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/abdullah.jpg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/abdullah.jpg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -229,7 +229,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/faizan.jpg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/faizan.jpg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -247,7 +247,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/shahnawaz.png" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/shahnawaz.png" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -265,7 +265,7 @@
         <div class="team-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box">
             <div class="image-box">
-              <a href="/about"><img src="/images/resource/team/demo.jpeg" alt=""></a>
+              <a href="/about"><img src="/images/resource/team/demo.jpeg" alt="image"></a>
               <!-- <ul class="social-links clearfix">
                 <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                 <li><a href="#"><span class="fab fa-twitter"></span></a></li>
