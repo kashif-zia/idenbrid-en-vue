@@ -130,7 +130,7 @@
           </div>
           <section class="contact-main pt-3">
             <div class="contact__btns">
-              <a href="https://lin.ee/VXTRVnC" target="_blank" class="btn-wide btn-wide_call">
+              <a href="https://lin.ee/f2X6G6U" target="_blank" class="btn-wide btn-wide_call">
                 <div class="btn-wide__imgs">
                   <img src="/images/gallery/Line-Black.png" alt="img" loading="lazy" class="btn-wide__img" />
                   <img src="/images/gallery/Line-white.png" alt="img" loading="lazy" class="btn-wide__img" />
