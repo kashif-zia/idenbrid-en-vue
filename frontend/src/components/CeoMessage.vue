@@ -1,4 +1,5 @@
 <template>
+    <div>
     <PageHeader title="CEO_MESSAGE"/>
     <div class="message--index highlight_blk">
         <div class="message_inner">
@@ -31,6 +32,7 @@
             </div>
         </div>
     </div>
+</div>
 </template>
 
 <script>

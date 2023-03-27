@@ -122,7 +122,7 @@
                                         </div>
                                         <img class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/1_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/1_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -141,12 +141,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/6.webp"
                                                 style="max-width:100%;display:block;position:static"></div>
                                         <img class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/6_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/6_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -164,12 +164,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/7.webp"
                                                 style="max-width:100%;display:block;position:static"></div>
                                         <img class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/7_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/7_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -187,12 +187,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/10.webp"
                                                 style="max-width:100%;display:block;position:static"></div>
                                         <img class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/10_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/10_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -210,7 +210,7 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/12.webp"
                                                 style="max-width:100%;display:block;position:static"></div>
                                         <img class="hover" aria-hidden="true" data-placeholder-image=""
@@ -234,12 +234,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/9.webp"
                                                 style="max-width:100%;display:block;position:static"></div>
                                         <img class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/9_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/9_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -257,12 +257,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/21.webp"
                                                 style="max-width:100%;display:block;position:static"></div><img
                                             class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/21_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/21_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -280,12 +280,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/15.webp"
                                                 style="max-width:100%;display:block;position:static"></div><img
                                             class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/15_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/15_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -303,12 +303,12 @@
                                 <div class="mb-2">
                                     <div class=" gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/16.webp"
                                                 style="max-width:100%;display:block;position:static"></div><img
                                             class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/16_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/16_white.webp" alt="image">
 
                                     </div>
                                 </div>
@@ -326,12 +326,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/17.webp"
                                                 style="max-width:100%;display:block;position:static"></div><img
                                             class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/17_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/17_white.webp" alt="image">
                                     </div>
                                 </div>
                                 <div class="card-title h5">
@@ -348,12 +348,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/18.webp"
                                                 style="max-width:100%;display:block;position:static"></div><img
                                             class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/18_white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/18_white.webp" alt="image">
                                     </div>
                                 </div>
                                 <div class="card-title h5">
@@ -370,12 +370,12 @@
                                 <div class="mb-2">
                                     <div class="gatsby-image-wrapper-constrained">
                                         <div style="max-width:58px;display:block">
-                                            <img class="default" alt="img" role="presentation" aria-hidden="true"
+                                            <img class="default" alt="image" role="presentation" aria-hidden="true"
                                                 src="/images/background/career/Lunch-blue.webp"
                                                 style="max-width:100%;display:block;position:static"></div><img
                                             class="hover" aria-hidden="true" data-placeholder-image=""
                                             style="opacity: 0; transition: opacity 500ms linear 0s; object-fit: cover;"
-                                            decoding="async" src="/images/background/career/Lunch-white.webp" alt="img">
+                                            decoding="async" src="/images/background/career/Lunch-white.webp" alt="image">
 
                                     </div>
                                 </div>

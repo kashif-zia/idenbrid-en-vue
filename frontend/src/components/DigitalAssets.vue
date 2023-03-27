@@ -10,12 +10,12 @@
               <h5>Logo</h5>
               <a href="/images/idenbrid-logo.png" download="image" rel="noopener">
                   <div class="kit kit-slim">
-                  <img src="/images/idenbrid-logo.png" alt="" />
+                  <img src="/images/idenbrid-logo.png" alt="image" />
                 </div>
                 </a>
               <a href="/images/1.png" download="image" rel="noopener">
                   <div class="kit kit-slim">
-                  <img src="/images/1.png" alt="" />
+                  <img src="/images/1.png" alt="image" />
                 </div>
                 </a>
             </div>

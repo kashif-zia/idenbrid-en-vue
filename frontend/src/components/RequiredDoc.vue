@@ -7,7 +7,7 @@
                     <div class="col-md-6 mb-4">
                         <div class="dic-left-col">
                             <div class="doc-img">
-                                <img src="/images/resource/digitalasset.png" alt="">
+                                <img src="/images/resource/digitalasset.png" alt="image">
                             </div>
                         </div>
                     </div>

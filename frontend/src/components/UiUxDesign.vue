@@ -11,14 +11,14 @@
                     application's design and usability.
                 </p>
                 <ul class="system-sec__contents system-sec__contents_design">
-                    <li class="system-sec__list"><img src="/images/icons/screen-transition diagram.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/screen-transition-diagram.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Screen Transition Diagram</h3>
                         <p class="system-sec__list__text">
                             To confirm the behavior of buttons and links that lead to the next page, a diagram, often
                             referred to as a wireframe, is created to serve as a blueprint.</p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/ui-design.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/ui-design.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">UI Design</h3>
                         <p class="system-sec__list__text">
@@ -27,7 +27,7 @@
                             and even the photographic images.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/ux-design.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/ux-design.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">UX Design</h3>
                         <p class="system-sec__list__text">
@@ -43,7 +43,7 @@
                     IDENBRID is often approached for design-only projects, owing to the fact that we have skilled
                     designers who excel at creating comprehensive visualizations of UI/UX designs and graphics. </p>
                 <ul class="system-sec__contents system-sec__contents_last">
-                    <li class="system-sec__list"><img src="/images/icons/tool-used.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/tool-used.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Tools used</h3>
                         <p class="system-sec__list__text">
@@ -51,7 +51,7 @@
                             approach involves implementing the design, along with screen logic, to ensure that it
                             matches the effectiveness of the prototype.</p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/hearing-ability.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/hearing-ability.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">listening comprehension</h3>
                         <p class="system-sec__list__text">
@@ -60,7 +60,7 @@
                             work towards creating a design that aligns with their needs and desires.
                         </p>
                     </li>
-                    <li class="system-sec__list"><img src="/images/icons/revision.svg" alt=""
+                    <li class="system-sec__list"><img src="/images/icons/revision.svg" alt="image"
                             class="system-sec__list__thumbnail">
                         <h3 class="system-sec__list__title">Revision</h3>
                         <p class="system-sec__list__text">
@@ -82,7 +82,7 @@
                 </div>
                 <div class="flow__scroll auto-container soft-development">
                     <ul class="flow__contents">
-                        <li class="flow__list flow__list_border"><img src="/images/icons/Team-rafiki.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/Team-rafiki.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Upon inquiry, we schedule a consultation to review project
                                 requirements and relevant documents, then provide a detailed estimate for the scope of
@@ -93,20 +93,20 @@
                                 project and its budget.</p>
                         </li>
                         <li class="flow__list flow__list_border"><img src="/images/icons/New-team-members-rafiki.svg"
-                                alt="" class="flow__list__thumbnail">
+                                alt="image" class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Requirement definition and basic design</h4>
                             <p class="flow__list__text">We establish specifications and outline the development process
                                 according to our standard format while also managing the project schedule.
                             </p>
                         </li>
-                        <li class="flow__list flow__list_border"><img src="/images/icons/Open-source-bro.svg" alt=""
+                        <li class="flow__list flow__list_border"><img src="/images/icons/Open-source-bro.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">UIUX design and development</h4>
                             <p class="flow__list__text">
                                 Based on detailed design documents, we create designs from screen transition diagrams
                                 and proceed with the development of the system, application, and infrastructure.</p>
                         </li>
-                        <li class="flow__list"><img src="/images/icons/test-amico.svg" alt=""
+                        <li class="flow__list"><img src="/images/icons/test-amico.svg" alt="image"
                                 class="flow__list__thumbnail">
                             <h4 class="flow__list__title">Testing and delivery</h4>
                             <p class="flow__list__text">After testing the application based on predetermined cases, we
@@ -121,28 +121,28 @@
                 <div class="menu-box">
                     <div class="item">
                         <span  class="text">
-                            <img src="/images/icons/icons8-pc-on-desk-80.png">Web System Development
+                            <img src="/images/icons/icons8-pc-on-desk-80.png" alt="image">Web System Development
                         </span>
                     </div>
                     <div class="item">
                         <span aria-current="page"
                             class="text router-link-exact-active router-link-active router-link-exact-active router-link-active"><img
-                                src="/images/icons/icons8-iphone-14-pro-80.png">Smartphone application development
+                                src="/images/icons/icons8-iphone-14-pro-80.png" alt="image">Smartphone application development
                     </span>
                     </div>
                     <div class="item">
                         <span class="text">
-                            <img src="/images/icons/icons8-illustrator-80.png">UIUX design production
+                            <img src="/images/icons/icons8-illustrator-80.png" alt="image">UIUX design production
                         </span>
                     </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/icons8-flight-trip-64.png">offshore development</span>
+                                src="/images/icons/icons8-flight-trip-64.png" alt="image">offshore development</span>
                             
                         </div>
                     <div class="item">
                         <span class="text"><img
-                                src="/images/icons/color-icon-logo.png">SES Engineer Style
+                                src="/images/icons/color-icon-logo.png" alt="image">SES Engineer Style
                         </span>
                     </div>
                 </div>

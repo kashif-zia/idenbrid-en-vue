@@ -1,4 +1,4 @@
-<template>
+    <template>
   <header :class="`main-header header-style-one ${sticky ? 'fixed-header' : ''}`">
 
     <!-- Header Upper -->
