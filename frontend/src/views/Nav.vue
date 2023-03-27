@@ -53,91 +53,87 @@
             </div> -->
 
 
-            <div class="link-box">
-              <router-link to="/getquotation" class="theme-btn btn-style-one">
-                <i class="btn-curve"></i>
-                <span class="btn-title">Get Quote Us</span>
-              </router-link>
-            </div>
-
+          <div class="link-box">
+            <router-link to="/getquotation" class="theme-btn btn-style-one">
+              <i class="btn-curve"></i>
+              <span class="btn-title">Get Quote Us</span>
+            </router-link>
           </div>
+
         </div>
       </div>
-      <!--End Header Upper-->
-      <nav class="mobile-nav__container">
-        <!-- content is loading via js -->
-        <div :class="`collapse navbar-collapse ${mobileToggle ? 'show' : ''} clearfix`">
-          <ul class="navigation clearfix">
-            <li class="dropdown">
-              <router-link to="/">Home<div class="dropdown-btn">
-              </div>
-              </router-link>
-            </li>
-            <li>
-              <router-link to="/about">About Us</router-link>
-            </li>
-            <li class="dropdown">
-              <router-link to="/portfolio">Portfolio<div class="dropdown-btn"><span class="fa fa-angle-right"></span></div>
-              </router-link>
-            </li>
-            <li class="dropdown">
-              <router-link to="/blogs">Blog<div class="dropdown-btn">
-                <span class="fa fa-angle-right"></span>
-              </div>
-              </router-link>
-            </li>
-            <li>
-              <router-link to="/career">Career</router-link>
-              </li>
-            <li>
-              <router-link to="/contact">Contact</router-link>
-            </li>
-          </ul>
-        </div>
-      </nav>
-  
-    </header>
-  </template>
-  
-  <script>
-    export default {
-      name: "Nav",
-      data() {
-        return {
-          sticky: false,
-          mobileToggle: false
-        }
-      },
-      mounted() {
-        window.addEventListener('scroll', this.handleScroll);
-  
-        const mobileNav = document.querySelector('.mobile-nav__container');
-        const dropdownMenu = mobileNav.querySelectorAll('.dropdown');
-  
-        for (let i = 0; i < dropdownMenu.length; i++) {
-          dropdownMenu[i].addEventListener("click", function () {
-            this.classList.toggle('open');
-            this.classList.toggle('current');
-          });
-        }
-  
-  
-      },
-      methods: {
-  
-        handleScroll() {
-          if (window.scrollY > 70) {
-            this.sticky = true
-          } else if (window.scrollY < 70) {
-            this.sticky = false
-          }
-        },
+    </div>
+    <!--End Header Upper-->
+    <nav class="mobile-nav__container">
+      <!-- content is loading via js -->
+      <div :class="`collapse navbar-collapse ${mobileToggle ? 'show' : ''} clearfix`">
+        <ul class="navigation clearfix">
+          <li class="dropdown">
+            <router-link to="/">Home
+            </router-link>
+          </li>
+          <li>
+            <router-link to="/about">About Us</router-link>
+          </li>
+          <li class="dropdown">
+            <router-link to="/portfolio">Portfolio
+            </router-link>
+          </li>
+          <li class="dropdown">
+            <router-link to="/blogs">Blog
+
+            </router-link>
+          </li>
+          <li>
+            <router-link to="/career">Career</router-link>
+          </li>
+          <li>
+            <router-link to="/contact">Contact</router-link>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+  </header>
+</template>
+
+<script>
+  export default {
+    name: "Nav",
+    data() {
+      return {
+        sticky: false,
+        mobileToggle: false
       }
+    },
+    mounted() {
+      window.addEventListener('scroll', this.handleScroll);
+
+      const mobileNav = document.querySelector('.mobile-nav__container');
+      const dropdownMenu = mobileNav.querySelectorAll('.dropdown');
+
+      for (let i = 0; i < dropdownMenu.length; i++) {
+        dropdownMenu[i].addEventListener("click", function () {
+          this.classList.toggle('open');
+          this.classList.toggle('current');
+        });
+      }
+
+
+    },
+    methods: {
+
+      handleScroll() {
+        if (window.scrollY > 70) {
+          this.sticky = true
+        } else if (window.scrollY < 70) {
+          this.sticky = false
+        }
+      },
     }
-  
-  </script>
-  
-  <style scoped>
-  
-  </style>
-  
+  }
+</script>
+
+<style scoped>
+
+</style>
