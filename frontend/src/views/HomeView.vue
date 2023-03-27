@@ -45,7 +45,7 @@
                         data-rotate='[ "ONE TEAM", "By abundant experience", "By TECHNOLOGY", "By hot PASSION" ]'></h2>
                       <h3 class="sub-title">We solve your user pains.</h3>
                       <div class="link-box">
-                        <router-link class="theme-btn btn-style-one" to="/doc">
+                        <router-link class="theme-btn btn-style-one" to="/document">
                           <i class="btn-curve"></i>
                           <span class="btn-title">Request a Document</span>
                         </router-link>

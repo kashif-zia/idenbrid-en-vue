@@ -9862,6 +9862,9 @@ font-size: 30px;
   .left-top-line{
     display: none;
   }
+  .docsection{
+    padding: 50px 0px ;
+  }
   }
   @media only screen and (max-width:375px){
     .banner-carousel .content-box .sub-title{
@@ -9869,6 +9872,9 @@ font-size: 30px;
     }
     .banner-carousel .carousel__slide--active .content-box h1{
       font-size: 40px;
+    }
+    .docsection .text{
+      font-size: 15px;
     }
    
   }
