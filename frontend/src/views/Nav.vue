@@ -8,7 +8,7 @@
           <div class="logo-box">
             <div class="logo">
               <router-link to="/" title="Idenbrid - Digital Agency Template">
-                <img src="/images/footer-idenbrid-logo(1).png" id="thm-logo" alt="Idenbrid - DIgital Agency HTML Template"
+                <img src="/images/footer-idenbrid-logo.png" id="thm-logo" alt="Idenbrid - DIgital Agency HTML Template"
                   title="Idenbrid - DIgital Agency Template"></router-link>
                 </div>
           </div>

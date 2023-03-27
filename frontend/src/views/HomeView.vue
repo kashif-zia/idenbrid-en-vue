@@ -394,7 +394,7 @@
         <h3 class="content-title">SERVICE</h3>
         <div class="service-row my-5 service-row-first">
           <div class="service-col">
-            <h2 class="service_h2"><img src="/images/icons/SHD.png" alt="Service-image" class="image-icon">SDH: Studio Development Hub  
+            <h2 class="service_h2"><img src="/images/icons/shd.png" alt="Service-image" class="image-icon">SDH: Studio Development Hub  
             </h2>
             <p class="service-p">
               Studio Development Hub provides IT contract development services for Japanese and global companies. Studio Development Hub provides IT contract development services for Japanese and global companies, as well as general offshore development services for Pakistani engineers on a month-to-month basis.
