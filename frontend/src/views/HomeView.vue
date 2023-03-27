@@ -392,7 +392,7 @@
     <section>
       <section class="otherservice auto-container">
         <h3 class="content-title">SERVICE</h3>
-        <div class="service-row my-5 service-row-first">
+        <div class="service-row  service-row-first">
           <div class="service-col">
             <h2 class="service_h2"><img src="/images/icons/SHD.png" alt="Service-image" class="image-icon">SDH: Studio Development Hub  
             </h2>
@@ -410,7 +410,7 @@
             <img alt="Service-image" src="/images/sdh.webp" class="service-img">
           </div>
         </div>
-        <div class="service-row my-5">
+        <div class="service-row">
           <div class="service-col">
             <img class="service-img" alt="" src="/images/ses.webp">
           </div>
