@@ -9865,6 +9865,13 @@ font-size: 30px;
   .docsection{
     padding: 50px 0px ;
   }
+  .main-footer .info-widget ul li {
+    font-size: 18px;
+  }
+  .main-footer .newsletter-widget .text{
+    font-size: 18px;
+    font-weight: 400;
+  }
   }
   @media only screen and (max-width:375px){
     .banner-carousel .content-box .sub-title{
@@ -9875,6 +9882,9 @@ font-size: 30px;
     }
     .docsection .text{
       font-size: 15px;
+    }
+    .main-footer .logo-widget .text ,.main-footer h6{
+      margin-bottom: 20px;
     }
    
   }
