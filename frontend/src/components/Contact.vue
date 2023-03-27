@@ -252,4 +252,9 @@ import axios from '../axios'
     color: #999999;
     cursor: not-allowed;
   }
+  @media only screen and (max-width:767px){
+    .contact-us-section {
+    padding: 50px 0px;
+  }
+  }
 </style>

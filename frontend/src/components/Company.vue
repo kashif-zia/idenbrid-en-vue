@@ -55,7 +55,7 @@
                     </dl>
                 </div>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-5 my-3 xs-my-0">
                 <video width="100%" autoplay="autoplay" loop="loop" muted="muted">
                     <source  src="/videos/company-intro.mp4" type="video/mp4">
                 </video>
@@ -140,10 +140,7 @@ export default{
     }
     @media screen and (max-width: 896px) {
         .profile--index {
-            padding: 80px 5%;
-        }
-        .profile--index {
-            padding: 80px 40px;
+            padding: 50px 0px;
         }
         .profile--index .prof_tbl {
             padding: 0;

@@ -150,7 +150,7 @@ components:{PageHeader},
     }
     @media screen and (max-width: 767px) {
         .message--index {
-            padding: 80px 5%;
+            padding: 10px 15px;
         }
         .message--index .message_inner {
             padding-top: 0;
@@ -164,7 +164,8 @@ components:{PageHeader},
             top: auto;
             transform: translateY(0);
             display: block;
-            margin-top: 40px;
+            margin-top: 30px;
+            margin-bottom: 30px;
         }
         .message--index .message_inner .message_box .box .text_area {
             width: 100%;
@@ -172,7 +173,7 @@ components:{PageHeader},
         .message--index .message_inner .message_box .box .text_area .ttl h3 {
             font-size: 20px;
             margin-top: 10px;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         .message--index .message_inner .message_box .box .text_area .more_txt {
             border-bottom: 1px solid #000;

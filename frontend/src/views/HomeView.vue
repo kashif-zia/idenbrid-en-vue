@@ -1127,5 +1127,13 @@ object-fit: cover;
 padding: 50px 15px;
 }
 
+
+}
+@media only screen and (max-width:475px){
+  figure.image img {
+    height: 200px !important;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
 }
 </style>

@@ -1170,6 +1170,8 @@
             padding-right: 5px;
             position: absolute;
         }
+
+ 
     }
 
     @media (max-width: 768px) {
@@ -1197,7 +1199,16 @@
 
     @media (max-width: 320px) {
         .main-banner-heading-55 {
-            font-size: 34px;
+            font-size: 28px;
         }
     }
+@media only screen and (max-width:767px){
+    .Banner-module--careers--61dbe{
+        padding: 50px 0px;
+    }
+    .font-weight-normal{
+font-size: 24px;
+    }
+
+}
 </style>
