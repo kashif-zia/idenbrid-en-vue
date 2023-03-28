@@ -12,7 +12,7 @@
                 <div class="inner-box">
                   <div class="image-box">
                     <router-link :to="'/blog-detail/'+blog.id">
-                  <img :src="'https://admin.idenbrid.com/storage/blog_images/'+blog.image" alt="image">
+                  <img :src="'https://admin.idenbrid.com/public/storage/blog_images/'+blog.image" alt="image">
                 </router-link>
                   </div>
                   <div class="lower-box">
@@ -159,7 +159,7 @@
                   </div>
                   <div class="post" v-for="latest in latest_blogs" :key="latest.id">
                     <figure class="post-thumb">
-                      <img :src="'https://admin.idenbrid.com/storage/blog_images/'+latest.image" alt="image">
+                      <img :src="'https://admin.idenbrid.com/public/storage/blog_images/'+latest.image" alt="image">
                     </figure>
                     <h5 class="text">
                       <a :href="'/blog-detail/'+latest.id">{{ latest.title }}</a></h5>
