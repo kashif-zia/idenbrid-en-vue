@@ -93,7 +93,12 @@
 }
 
 @media only screen and (max-width: 1199px){
-	
+	.mobile-nav__container  {
+		padding: 0px 25px;
+	  }
+	  .mobile-nav__container ul{
+	  padding: 50px 0px;
+	  }
 	.main-header.fixed-header .header-upper .logo-box {
 		padding-top: 20px;
 		padding-bottom: 20px;
@@ -601,9 +606,7 @@
 
 @media only screen and (max-width: 767px){
 	
-	.mobile-nav__container  {
-		padding: 0px 25px;
-	  }
+	
 	  .mobile-nav__container  ul{
 		padding: 50px 0px;
 	  }

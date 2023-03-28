@@ -9605,12 +9605,13 @@ font-size: 30px;
 
 .mobile-nav__container li.dropdown {
   position: relative;
+  border-bottom: 1px solid rgb(179 165 165 / 36%);
+  padding: 15px 0px;
 }
 
 .mobile-nav__container li.dropdown > a {
   position: relative;
   display: inline-block;
-  padding-right: 25px;
   vertical-align: middle;
 }
 .mobile-nav__container li > a > span {

@@ -21,7 +21,7 @@
   
             <!-- Main Menu -->
             <nav class="main-menu navbar-expand-md navbar-light">
-              <div class="collapse navbar-collapse show clearfix">
+              <div class="collapse navbar-collapse  clearfix">
                 <ul class="navigation clearfix">
                   <li class="current dropdown">
                     <router-link to="/">Home</router-link>
@@ -46,13 +46,7 @@
             </nav>
           </div>
           <div class="other-links clearfix">
-            <!-- <div class="link-box">
-                <router-link class="link theme-btn btn-style-one" to="/getquotation">
-                  <button class="btn-get-quote">Get Quote Us</button>
-                </router-link>
-            </div> -->
-
-
+          
           <div class="link-box">
             <router-link to="/getquotation" class="theme-btn btn-style-one">
               <i class="btn-curve"></i>
@@ -67,12 +61,12 @@
     <nav class="mobile-nav__container">
       <!-- content is loading via js -->
       <div :class="`collapse navbar-collapse ${mobileToggle ? 'show' : ''} clearfix`">
-        <ul class="navigation clearfix">
+        <ul class="navigation clearfix" >
           <li class="dropdown">
             <router-link to="/">Home
             </router-link>
           </li>
-          <li>
+          <li class="dropdown">
             <router-link to="/about">About Us</router-link>
           </li>
           <li class="dropdown">
@@ -84,10 +78,10 @@
 
             </router-link>
           </li>
-          <li>
+          <li class="dropdown">
             <router-link to="/career">Career</router-link>
           </li>
-          <li>
+          <li class="dropdown">
             <router-link to="/contact">Contact</router-link>
           </li>
         </ul>
@@ -109,17 +103,6 @@
     mounted() {
       window.addEventListener('scroll', this.handleScroll);
 
-      const mobileNav = document.querySelector('.mobile-nav__container');
-      const dropdownMenu = mobileNav.querySelectorAll('.dropdown');
-
-      for (let i = 0; i < dropdownMenu.length; i++) {
-        dropdownMenu[i].addEventListener("click", function () {
-          this.classList.toggle('open');
-          this.classList.toggle('current');
-        });
-      }
-
-
     },
     methods: {
 
@@ -135,5 +118,9 @@
 </script>
 
 <style scoped>
-
+.dropdown .router-link-exact-active{
+color:#2980B9;
+font-weight: 600;
+text-decoration: none;
+}
 </style>
