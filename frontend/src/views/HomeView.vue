@@ -28,7 +28,7 @@
       <div class="banner-carousel">
 
         <carousel :items-to-show="1" :snap-align="center">
-          <slide v-for="slide in 1" :key="slide">
+          <slide v-for="slide in 10" :key="slide">
             <div class="slide-item">
               <div class="image-layer" style="background-image: url(/images/main-slider/team.webp)">
                 <!-- <video src="/videos/idenbridopeningvideo.mp4" muted autoplay></video> -->
