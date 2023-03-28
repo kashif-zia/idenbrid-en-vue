@@ -258,7 +258,11 @@ figure {
 }
 
 /*Btn Style One*/
-
+.request-link{
+position: absolute;
+top: 84%;
+left: 6%;
+}
 .btn-style-one {
   position: relative;
   display: inline-block;

@@ -62,28 +62,36 @@
       <!-- content is loading via js -->
       <div :class="`collapse navbar-collapse ${mobileToggle ? 'show' : ''} clearfix`">
         <ul class="navigation clearfix" >
+          <router-link @click="()=>mobileToggle=false" to="/">
           <li class="dropdown">
-            <router-link to="/">Home
-            </router-link>
-          </li>
+              Home
+            </li>
+          </router-link>
+          <router-link @click="()=>mobileToggle=false" to="/about">
           <li class="dropdown">
-            <router-link to="/about">About Us</router-link>
-          </li>
+              About Us
+            </li>
+          </router-link>
+          <router-link @click="()=>mobileToggle=false" to="/portfolio">
           <li class="dropdown">
-            <router-link to="/portfolio">Portfolio
-            </router-link>
-          </li>
+              Portfolio
+            </li>
+          </router-link>
+          <router-link @click="()=>mobileToggle=false" to="/blogs">
           <li class="dropdown">
-            <router-link to="/blogs">Blog
-
-            </router-link>
-          </li>
+              Blog
+            </li>
+          </router-link>
+          <router-link @click="()=>mobileToggle=false" to="/career">
           <li class="dropdown">
-            <router-link to="/career">Career</router-link>
-          </li>
+              Career
+            </li>
+          </router-link>
+          <router-link @click="()=>mobileToggle=false" to="/contact">
           <li class="dropdown">
-            <router-link to="/contact">Contact</router-link>
-          </li>
+              Contact
+            </li>
+          </router-link>
         </ul>
       </div>
     </nav>

@@ -26,8 +26,9 @@
         </div>
       </div>
       <div class="banner-carousel">
+
         <carousel :items-to-show="1" :snap-align="center">
-          <slide v-for="slide in 10" :key="slide">
+          <slide v-for="slide in 1" :key="slide">
             <div class="slide-item">
               <div class="image-layer" style="background-image: url(/images/main-slider/team.webp)">
                 <!-- <video src="/videos/idenbridopeningvideo.mp4" muted autoplay></video> -->
@@ -44,12 +45,7 @@
                       <h2 class="txt-rotate ml-0" data-period="2000"
                         data-rotate='[ "ONE TEAM", "By abundant experience", "By TECHNOLOGY", "By hot PASSION" ]'></h2>
                       <h3 class="sub-title">We solve your user pains.</h3>
-                      <div class="link-box">
-                        <router-link class="theme-btn btn-style-one" to="/document">
-                          <i class="btn-curve"></i>
-                          <span class="btn-title">Request a Document</span>
-                        </router-link>
-                      </div>
+
                     </div>
                   </div>
                 </div>
@@ -57,13 +53,20 @@
             </div>
           </slide>
         </carousel>
+        <div class="request-link link-box">
+          <router-link class="theme-btn btn-style-one" to="/document">
+            <i class="btn-curve"></i>
+            <span class="btn-title">Request a Document</span>
+          </router-link>
+        </div>
+
+
       </div>
     </section>
     <section class="services-section" style="
         background-image: url(../images/background/pattern-2.png);
         background-repeat: no-repeat;
-        width: 100%;
-      ">
+        width: 100%;">
       <!-- <video src="../static/images/background/Network.webm" autoplay></video> -->
       <div class="auto-container">
         <div class="row clearfix">
@@ -394,10 +397,13 @@
         <h3 class="content-title">SERVICE</h3>
         <div class="service-row  service-row-first">
           <div class="service-col">
-            <h2 class="service_h2"><img src="/images/icons/shd.png" alt="Service-image" class="image-icon">SDH: Studio Development Hub  
+            <h2 class="service_h2"><img src="/images/icons/shd.png" alt="Service-image" class="image-icon">SDH: Studio
+              Development Hub
             </h2>
             <p class="service-p">
-              Studio Development Hub provides IT contract development services for Japanese and global companies. Studio Development Hub provides IT contract development services for Japanese and global companies, as well as general offshore development services for Pakistani engineers on a month-to-month basis.
+              Studio Development Hub provides IT contract development services for Japanese and global companies. Studio
+              Development Hub provides IT contract development services for Japanese and global companies, as well as
+              general offshore development services for Pakistani engineers on a month-to-month basis.
             </p>
             <div class="link-box mt-5">
               <router-link class="theme-btn btn-style-one" to="/development">
@@ -415,11 +421,14 @@
             <img class="service-img" alt="service-image" src="/images/ses.webp">
           </div>
           <div class="service-col">
-            <h2 class="service_h2"><img src="/images/icons/ses.png" alt="Service-image"
-                class="image-icon">SES: Engineer Style
+            <h2 class="service_h2"><img src="/images/icons/ses.png" alt="Service-image" class="image-icon">SES: Engineer
+              Style
             </h2>
             <p class="service-p">
-              Our engineering style refers to our engineering recruiting support service, which, like our SES service, provides companies in need of internal and external talented engineers and designers with support for the onboarding process, from finding and introducing candidates, to setting up interviews with them, to hiring.
+              Our engineering style refers to our engineering recruiting support service, which, like our SES service,
+              provides companies in need of internal and external talented engineers and designers with support for the
+              onboarding process, from finding and introducing candidates, to setting up interviews with them, to
+              hiring.
             </p>
             <div class="link-box mt-5">
               <router-link class="theme-btn btn-style-one" to="/ses">
@@ -1104,36 +1113,41 @@ object-fit: cover;
     -o-object-fit: cover;
     object-fit: cover;
   }
-  @media (max-width: 767px)
-{
-.service-col {
-    margin:10px 0px;
-    max-width: 100%;
-    width: 100%;
-    padding: 0px;
-}
-.service_h2{
-    flex-direction: row;
-    font-size: 20px;
-    line-height: 1.3;
-}
-.otherservice .service-row {
-    flex-direction: column;
-}
-.content-title{
-  margin-bottom: 0px;
-}
-.otherservice{
-padding: 50px 15px;
-}
+
+  @media (max-width: 767px) {
+    .service-col {
+      margin: 10px 0px;
+      max-width: 100%;
+      width: 100%;
+      padding: 0px;
+    }
+
+    .service_h2 {
+      flex-direction: row;
+      font-size: 20px;
+      line-height: 1.3;
+    }
+
+    .otherservice .service-row {
+      flex-direction: column;
+    }
+
+    .content-title {
+      margin-bottom: 0px;
+    }
+
+    .otherservice {
+      padding: 50px 15px;
+    }
 
 
-}
-@media only screen and (max-width:475px){
-  figure.image img {
-    height: 200px !important;
-    -o-object-fit: cover;
-    object-fit: cover;
   }
-}
+
+  @media only screen and (max-width:475px) {
+    figure.image img {
+      height: 200px !important;
+      -o-object-fit: cover;
+      object-fit: cover;
+    }
+  }
 </style>

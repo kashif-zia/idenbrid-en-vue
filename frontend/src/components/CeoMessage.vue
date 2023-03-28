@@ -11,20 +11,20 @@
                             </h3>
                         </div>
                         <p class="lead">
-                            In January 2020, IDENBRID was born in Pakistan by Japanese people。
+                            In January 2020, IDENBRID was born in Pakistan by Japanese people.
                         </p>
                         <p class="lead">
-                            Since then, we have been working hard to achieve our goal of becoming the world's most needed IT company in Pakistan。
+                            Since then, we have been working hard to achieve our goal of becoming the world's most needed IT company in Pakistan.
                         </p>
                         <p class="lead">
-                            What drives us every day is our clients, who rely on us, and our team and colleagues who share our vision of "solving user pains with IT"。
+                            What drives us every day is our clients, who rely on us, and our team and colleagues who share our vision of "solving user pains with IT".
                         </p>
                         <p class="lead">
-                            We believe that we can achieve our goal of becoming the world's most needed IT group only when the entire company is focused not only on sales, but also on putting the customer first。
+                            We believe that we can achieve our goal of becoming the world's most needed IT group only when the entire company is focused not only on sales, but also on putting the customer first.
                         </p>
                         <p class="lead">
-                            To this end, we have introduced OLP and are focusing on developing leaders. As one of the Japanese entrepreneurs overseas, I will simply keep going forward toward my goal without stopping。</p>
-                        <p class="lead">Thank you for your continued support and encouragement!。</p>
+                            To this end, we have introduced OLP and are focusing on developing leaders. As one of the Japanese entrepreneurs overseas, I will simply keep going forward toward my goal without stopping.</p>
+                        <p class="lead">Thank you for your continued support and encouragement !</p>
                         <p class="lead name">March 2023<br>IDENBRID INC.<br
                             >Soga Nakamura, Founder and CEO</p>
                     </div>
@@ -71,25 +71,19 @@ components:{PageHeader},
     }
     .message--index .message_inner .message_box .box .text_area .ttl span {
         font-size: 14px;
-        font-family: DIN-Regular;
         font-weight: 500;
         color: #000;
     }
     .message--index .message_inner .message_box .box .text_area .ttl h3 {
         font-size: 28.8px;
-        line-height: 1.9;
-        font-family: 'Noto Sans JP', sans-serif;
-        font-weight: 600;
+        font-weight: 700;
         margin-bottom: 25px;
     }
     .message--index .message_inner .message_box .box .text_area .lead {
         margin-bottom: 15px;
-        font-family: 'Noto Sans JP', sans-serif;
-        font-size: 14px;
-        font-weight: 500;
-        line-height: 2.2;
-        letter-spacing: 0.04em;
-        color: #000;
+        font-size: 18px;
+        font-weight: 400;
+        color: #000000;
     }
     .message--index .message_inner .message_box .box .text_area .more_txt {
         color: gray;
@@ -171,9 +165,7 @@ components:{PageHeader},
             width: 100%;
         }
         .message--index .message_inner .message_box .box .text_area .ttl h3 {
-            font-size: 20px;
-            margin-top: 10px;
-            margin-bottom: 20px;
+            font-size: 16px;
         }
         .message--index .message_inner .message_box .box .text_area .more_txt {
             border-bottom: 1px solid #000;
