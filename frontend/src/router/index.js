@@ -86,7 +86,7 @@ const router = createRouter({
       component: () => import('../components/BlogSingle.vue')
     },
     {
-      path: '/doc',
+      path: '/document',
       name: 'RequiredDoc',
       component: () => import('../components/RequiredDoc.vue')
     },

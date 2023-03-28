@@ -339,7 +339,7 @@
 	.about-section-two,
 	.sponsors-section-two,
 	.sidebar-page-container{
-		padding: 0px 0px 45px;
+		padding: 30px 0px 45px;
 	}
 .team-section{
 	padding: 60px 0px;
@@ -416,7 +416,7 @@
 	.agency-section,
 	.we-work-section,
 	.project-single{
-		padding: 90px 0px 50px;
+		padding: 0px 0px 50px;
 	}
 
 	.why-us-section{
@@ -605,8 +605,12 @@
 
 
 @media only screen and (max-width: 767px){
-	
-	
+	.banner-carousel .content-box .inner{
+		padding: 0px 10px;
+	}
+	.mobile-nav__container  {
+		padding: 0px 25px;
+	  }
 	  .mobile-nav__container  ul{
 		padding: 50px 0px;
 	  }
@@ -837,7 +841,7 @@
 	}
 
 	.sec-title h2{
-		font-size: 36px;
+		font-size: 24px;
 		line-height: 1.15em;
 	}
 

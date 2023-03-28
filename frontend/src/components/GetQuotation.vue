@@ -587,7 +587,7 @@
       background: white;
       padding-bottom: 70px;
       min-height: calc(100% - 70px);
-      padding-top: 56px;
+      padding-top: 50px;
     }
   
     .vTcAG svg {
@@ -1049,5 +1049,10 @@
       #msform .action-button {
         width: 100%;
       }
+    }
+    @media only screen and (max-width:767px){
+      #heading {
+      font-size: 24px;
+    }
     }
   </style>

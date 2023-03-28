@@ -457,7 +457,7 @@
         }
 
         .lead_area .lead_inner .lead_txt {
-            margin-top: 30px;
+            margin-top: 0px;
             width: 100%;
             font-size: 14px;
         }
@@ -499,7 +499,7 @@
 
     @media screen and (max-width:768px) {
         .office-section{
-            padding: 0px;
+            padding: 30px 0px;
         }
         .mv_textarea .entxt {
             font-size: 40px !important;
