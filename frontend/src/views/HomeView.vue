@@ -26,7 +26,6 @@
         </div>
       </div>
       <div class="banner-carousel">
-
         <carousel :items-to-show="1" :snap-align="center">
           <slide v-for="slide in 10" :key="slide">
             <div class="slide-item">
@@ -45,7 +44,12 @@
                       <h2 class="txt-rotate ml-0" data-period="2000"
                         data-rotate='[ "ONE TEAM", "By abundant experience", "By TECHNOLOGY", "By hot PASSION" ]'></h2>
                       <h3 class="sub-title">We solve your user pains.</h3>
-
+                      <div class="link-box requestdesktop-btn">
+                        <router-link class="theme-btn btn-style-one" to="/document">
+                          <i class="btn-curve"></i>
+                          <span class="btn-title">Request a Document</span>
+                        </router-link>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -63,8 +67,8 @@
 
       </div>
     </section>
-    <section class="services-section" style="
-        background-image: url(../images/background/pattern-2.png);
+    <section class="services-section" 
+    style="background-image: url(../images/background/pattern-2.png);
         background-repeat: no-repeat;
         width: 100%;">
       <!-- <video src="../static/images/background/Network.webm" autoplay></video> -->

@@ -62,32 +62,32 @@
       <!-- content is loading via js -->
       <div :class="`collapse navbar-collapse ${mobileToggle ? 'show' : ''} clearfix`">
         <ul class="navigation clearfix" >
-          <router-link @click="()=>mobileToggle=false" to="/">
+          <router-link class="mbil-nav-link" @click="()=>mobileToggle=false" to="/">
           <li class="dropdown">
               Home
             </li>
           </router-link>
-          <router-link @click="()=>mobileToggle=false" to="/about">
+          <router-link @click="()=>mobileToggle=false" class="mbil-nav-link" to="/about">
           <li class="dropdown">
               About Us
             </li>
           </router-link>
-          <router-link @click="()=>mobileToggle=false" to="/portfolio">
+          <router-link @click="()=>mobileToggle=false" class="mbil-nav-link" to="/portfolio">
           <li class="dropdown">
               Portfolio
             </li>
           </router-link>
-          <router-link @click="()=>mobileToggle=false" to="/blogs">
+          <router-link @click="()=>mobileToggle=false" class="mbil-nav-link" to="/blogs">
           <li class="dropdown">
               Blog
             </li>
           </router-link>
-          <router-link @click="()=>mobileToggle=false" to="/career">
+          <router-link @click="()=>mobileToggle=false" class="mbil-nav-link" to="/career">
           <li class="dropdown">
               Career
             </li>
           </router-link>
-          <router-link @click="()=>mobileToggle=false" to="/contact">
+          <router-link @click="()=>mobileToggle=false" class="mbil-nav-link" to="/contact">
           <li class="dropdown">
               Contact
             </li>
@@ -126,8 +126,11 @@
 </script>
 
 <style scoped>
-.dropdown .router-link-exact-active{
-color:#2980B9;
+  .mbil-nav-link{
+    color: #000000;
+  }
+.mbil-nav-link.router-link-exact-active{
+color:#000;
 font-weight: 600;
 text-decoration: none;
 }

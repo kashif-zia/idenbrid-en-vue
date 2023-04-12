@@ -1176,7 +1176,7 @@
 
     @media (max-width: 768px) {
         .main-banner-heading-55 {
-            font-size: 40px;
+            font-size: 32px;
         }
 
         .Vacancies-module--my_custom_scrollbar--38c7d {
